@@ -1,44 +1,44 @@
 name: 🔍 SonarCloud Analysis
 on:
-    push:
-        branches: [main]
-    pull_request:
-        types: [opened, synchronize, reopened]
+  push:
+    branches: [main]
+  pull_request:
+    types: [opened, synchronize, reopened]
 
 jobs:
-    sonarcloud:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v4
-              with:
-                  fetch-depth: 0
+  sonarcloud:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: 20
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-            - name: Cache dependencies
-              uses: actions/cache@v3
-              with:
-                  path: ~/.npm
-                  key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
 
-            - name: Install dependencies
-              run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
-            - name: Build project with Yandex Maps key
-              run: |
-                  echo "VITE_YANDEX_MAPS_API_KEY=dummy_key_for_sonar" > .env
-                  npm run build
+      - name: Build project with Yandex Maps key
+        run: |
+          echo "VITE_YANDEX_MAPS_API_KEY=dummy_key_for_sonar" > .env
+          npm run build
 
-            - name: Run SonarCloud Scan
-              uses: SonarSource/sonarqube-scan-action@master
-              env:
-                  SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              with:
-                  args: >
-                      -Dsonar.ci.autoconfig.disabled=true
-                      -Dsonar.coverage.exclusions=**/*
-                      -Dsonar.javascript.lcov.reportPaths=
+      - name: Run SonarCloud Scan
+        uses: SonarSource/sonarqube-scan-action@master
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: >
+            -Dsonar.ci.autoconfig.disabled=true
+            -Dsonar.coverage.exclusions=**/*
+            -Dsonar.javascript.lcov.reportPaths=

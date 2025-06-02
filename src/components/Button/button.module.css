@@ -16,7 +16,8 @@
 	width: 100%;
 }
 
-.small {}
+.small {
+}
 
 .medium {
 	min-width: 164px;
@@ -96,7 +97,6 @@
 	cursor: not-allowed;
 	pointer-events: none;
 }
-
 
 .button:focus-visible {
 	outline: 2px solid currentColor;

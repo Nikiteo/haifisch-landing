@@ -84,7 +84,6 @@
 	@media (width >=480px) {
 		font-size: 1rem;
 		width: 80%;
-
 	}
 
 	@media (width >=640px) {
@@ -94,7 +93,6 @@
 	@media (width >=1200px) {
 		margin: 2.25rem 0;
 	}
-
 }
 
 .button {

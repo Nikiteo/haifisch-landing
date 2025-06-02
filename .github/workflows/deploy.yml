@@ -1,76 +1,76 @@
 name: 🚀 Deploy Frontend
 
 on:
-    push:
-        branches: [main]
+  push:
+    branches: [main]
 
 jobs:
-    deploy:
-        name: 🛠️ Build & Deploy
-        runs-on: ubuntu-latest
-        environment: production
+  deploy:
+    name: 🛠️ Build & Deploy
+    runs-on: ubuntu-latest
+    environment: production
 
-        steps:
-            # ======================
-            # 1. Подготовка
-            # ======================
-            - name: Checkout code
-              uses: actions/checkout@v4
+    steps:
+      # ======================
+      # 1. Подготовка
+      # ======================
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: 20
-                  cache: 'npm'
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
 
-            # ======================
-            # 2. Сборка
-            # ======================
-            - name: Install dependencies
-              run: npm ci
+          # ======================
+          # 2. Сборка
+          # ======================
+      - name: Install dependencies
+        run: npm ci
 
-            - name: Build project
-              run: |
-                  echo "VITE_YANDEX_MAPS_API_KEY=${{ secrets.YANDEX_MAPS_API_KEY }}" > .env
-                  npm run build
-                  echo "BUILD_DATE=$(date +'%Y.%m.%d-%H:%M')" >> $GITHUB_ENV
+      - name: Build project
+        run: |
+          echo "VITE_YANDEX_MAPS_API_KEY=${{ secrets.YANDEX_MAPS_API_KEY }}" > .env
+          npm run build
+          echo "BUILD_DATE=$(date +'%Y.%m.%d-%H:%M')" >> $GITHUB_ENV
 
-            # ======================
-            # 3. Деплой
-            # ======================
-            - name: Clean remote directory
-              uses: appleboy/ssh-action@v0.1.7
-              with:
-                  host: 87.242.119.108
-                  username: nikiteo
-                  key: ${{ secrets.SSH_PRIVATE_KEY }}
-                  script: |
-                      cd ~/haifisch-front
-                      rm -rf assets index.html *.js *.css *.ico
+          # ======================
+          # 3. Деплой
+          # ======================
+      - name: Clean remote directory
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: 87.242.119.108
+          username: nikiteo
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            cd ~/haifisch-front
+            rm -rf assets index.html *.js *.css *.ico
 
-            - name: Upload built files
-              uses: appleboy/scp-action@v0.1.4
-              with:
-                  host: 87.242.119.108
-                  username: nikiteo
-                  key: ${{ secrets.SSH_PRIVATE_KEY }}
-                  source: 'dist/*'
-                  target: '~/haifisch-front/'
-                  strip_components: 0
+      - name: Upload built files
+        uses: appleboy/scp-action@v0.1.4
+        with:
+          host: 87.242.119.108
+          username: nikiteo
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          source: 'dist/*'
+          target: ~/haifisch-front/
+          strip_components: 0
 
-            # ======================
-            # 4. Уведомления
-            # ======================
-            - name: Telegram notification
-              uses: appleboy/telegram-action@v1.0.1
-              with:
-                  to: ${{ secrets.TELEGRAM_CHAT_ID }}
-                  token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-                  message: |
-                      *${{ job.status == 'success' && '✅ Деплой успешен' || '❌ Ошибка деплоя' }}*
-                      ==================
-                      *Проект*: ${{ github.repository }}
-                      *Дата*: ${{ env.BUILD_DATE }}
-                      ==================
-                      [Логи](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
-                  format: markdown
+          # ======================
+          # 4. Уведомления
+          # ======================
+      - name: Telegram notification
+        uses: appleboy/telegram-action@v1.0.1
+        with:
+          to: ${{ secrets.TELEGRAM_CHAT_ID }}
+          token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          message: |
+            *${{ job.status == 'success' && '✅ Деплой успешен' || '❌ Ошибка деплоя' }}*
+            ==================
+            *Проект*: ${{ github.repository }}
+            *Дата*: ${{ env.BUILD_DATE }}
+            ==================
+            [Логи](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+          format: markdown
