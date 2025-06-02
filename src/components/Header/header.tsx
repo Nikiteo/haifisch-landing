@@ -5,7 +5,7 @@ import { logo } from '@/assets'
 import { Button, Logo, Navigation } from '@/components'
 
 import { BurgerMenu } from './BurgerMenu/burger-menu'
-import styles from './Header.module.css'
+import styles from './header.module.css'
 
 export const Header: React.FC = () => {
 	// const handleContactClick = useCallback(() => {
