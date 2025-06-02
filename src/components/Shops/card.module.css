@@ -1,0 +1,99 @@
+.card {
+	position: relative;
+	width: 100%;
+	aspect-ratio: 288/142;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	@media (width >=480px) {
+		aspect-ratio: 440/204;
+	}
+
+	@media (width >=640px) {
+		aspect-ratio: 592/222;
+	}
+
+	@media (width >=960px) {
+		aspect-ratio: 446/252;
+	}
+
+	@media (width >=1200px) {
+		aspect-ratio: 610/262;
+	}
+}
+
+.card::before {
+	content: '';
+	position: absolute;
+	inset: 0;
+	background-image: var(--card-bg-image);
+	background-position: var(--card-bg-position, center);
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: 0.75;
+	z-index: 1;
+}
+
+.logo {
+	max-width: 11rem;
+
+	position: relative;
+	z-index: 2;
+
+	@media (width >=480px) {
+		max-width: 14.625rem;
+	}
+
+	@media (width >=640px) {
+		max-width: 17.125rem;
+	}
+
+	@media (width >=960px) {
+		max-width: 18.625rem;
+	}
+
+	@media (width >=1200px) {
+		max-width: 20.5rem;
+	}
+}
+
+.ozonLogo {
+	max-width: 6.5rem;
+
+	position: relative;
+	z-index: 2;
+
+	@media (width >=480px) {
+		max-width: 6.625rem;
+	}
+
+	@media (width >=640px) {
+		max-width: 8.125rem;
+	}
+
+	@media (width >=960px) {
+		max-width: 8.5rem;
+	}
+
+	@media (width >=1200px) {
+		max-width: 9.75rem;
+	}
+}
+
+.button {
+	position: relative;
+	z-index: 2;
+	margin-top: 1rem;
+	align-self: center;
+
+	@media (width >=480px) {
+		margin-top: 1.5rem;
+	}
+
+	@media (width >=960px) {
+		margin-top: 2rem;
+	}
+}

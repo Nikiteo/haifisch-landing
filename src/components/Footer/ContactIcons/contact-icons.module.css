@@ -1,0 +1,26 @@
+.iconLinks {
+	display: flex;
+	flex-direction: row;
+	gap: 0.625rem;
+
+	margin-top: 1.25rem;
+
+	@media (width >=640px) {
+		margin-top: 1.5rem;
+	}
+
+	@media (width >=960px) {
+		margin-top: 2rem;
+	}
+}
+
+.icon {
+	width: 2.625rem;
+	height: 2.625rem;
+
+	@media (width >=640px) {
+		width: 3.25rem;
+		height: 3.25rem;
+	}
+}
+

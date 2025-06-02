@@ -1,0 +1,26 @@
+.map {
+	margin-top: 1.25rem;
+	height: 20.5rem;
+
+	@media (width >=480px) {
+		height: 26.5rem;
+	}
+
+	@media (width >=640px) {
+		height: 24.25rem;
+	}
+
+	@media (width >=960px) {
+		margin-top: 0;
+
+		height: 33.125rem;
+		max-width: 35rem;
+		width: 100%;
+	}
+
+	@media (width >=1200px) {
+		height: 34rem;
+		max-width: 57.5rem;
+		width: 100%;
+	}
+}

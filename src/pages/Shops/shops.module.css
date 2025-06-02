@@ -1,0 +1,50 @@
+.textContainer {
+	--gap-xl: 3.125rem;
+	--gap-lg: 1.625rem;
+	--gap-md: 0.5rem;
+
+	display: flex;
+
+	@media (width >=640px) {
+		gap: var(--gap-md);
+	}
+
+	@media (width >=960px) {
+		gap: var(--gap-lg);
+	}
+
+	@media (width >=1200px) {
+		gap: var(--gap-xl);
+	}
+}
+
+.decorativeBox {
+	display: none;
+	width: 50%;
+
+	@media (width >=960px) {
+		display: block;
+	}
+}
+
+.shopsWrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+
+	margin: 2.5rem auto 0 auto;
+
+	@media (width >=480px) {
+		margin: 2.875rem auto 0 auto;
+		gap: 1.25rem;
+	}
+
+	@media (width >=640px) {
+		margin: 3.125rem auto 0 auto;
+	}
+
+	@media (width >=960px) {
+		flex-direction: row;
+		margin: 3.75rem auto 0 auto;
+	}
+}

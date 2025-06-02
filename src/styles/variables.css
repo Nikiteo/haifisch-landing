@@ -1,0 +1,41 @@
+:root {
+	/* Цвета фона */
+	--color-bg-primary: #ececec;
+	--color-bg-secondary: #fbfbfb;
+	--color-bg-dark: #000000;
+	--color-icon-hover: #d5d5d5;
+
+	/* Цвета текста */
+	--color-text-primary: #262626;
+	--color-text-secondary: #6c6c6c;
+	--color-accent-hover: #3c3c3c;
+
+	/* Шрифты */
+	--font-heading: 'Playfair Display', serif;
+	--font-body: 'Inter', sans-serif;
+
+	/* Радиусы */
+	--radius: 30px;
+
+	/* Размеры */
+	--max-width: 1440px;
+
+	/* Отступы */
+	--space-xs: 1rem;
+	--space-sm: 1.25rem;
+	--space-md: 1.5rem;
+	--space-lg: 1.5rem;
+	--space-xl: 6.25rem;
+
+	--spaceY-xs: 3.125rem;
+	--spaceY-sm: 3.75rem;
+	--spaceY-md: 5rem;
+	--spaceY-lg: 6.25rem;
+	--spaceY-xl: 7.5rem;
+
+	/* Шапка */
+	--header-sm: 4rem;
+	--header-md: 4.5rem;
+	--header-lg: 6.625rem;
+	--header-xl: 7.625rem;
+}
