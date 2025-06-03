@@ -13,7 +13,7 @@ interface CardProps {
 	position: string
 }
 
-export function Card({ image, alt, logo, link, position }: CardProps) {
+export function Card({ image, alt, logo, link, position }: Readonly<CardProps>) {
 	return (
 		<div
 			className={styles.card}

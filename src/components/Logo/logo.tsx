@@ -6,7 +6,7 @@ interface LogoProps {
 	className?: string
 }
 
-export function Logo({ src, alt, className }: LogoProps) {
+export function Logo({ src, alt, className }: Readonly<LogoProps>) {
 	return (
 		<a
 			href="https://haifisch.ru"
