@@ -15,6 +15,9 @@ export const Navigation = memo(({ vertical = false, className, onItemClick }: Na
 		<ul
 			className={`${styles.nav} ${vertical ? styles.vertical : styles.horizontal} ${className ?? ''}`}
 		>
+			<NavItem targetId="main" onClick={onItemClick} className={styles.hide}>
+				{t('main.nav')}
+			</NavItem>
 			<NavItem targetId="about" onClick={onItemClick}>
 				{t('menu.about')}
 			</NavItem>
@@ -24,7 +27,7 @@ export const Navigation = memo(({ vertical = false, className, onItemClick }: Na
 			<NavItem targetId="shops" onClick={onItemClick}>
 				{t('menu.shops')}
 			</NavItem>
-			<NavItem targetId="contacts" onClick={onItemClick} className={styles.hideContacts}>
+			<NavItem targetId="contacts" onClick={onItemClick} className={styles.hide}>
 				{t('menu.contacts')}
 			</NavItem>
 		</ul>

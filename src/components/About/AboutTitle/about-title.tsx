@@ -2,7 +2,7 @@ import { t } from 'i18next'
 
 import styles from './about-title.module.css'
 
-export const AboutTitle: React.FC = () => {
+export function AboutTitle() {
 	return (
 		<div className={styles.container}>
 			<hgroup>

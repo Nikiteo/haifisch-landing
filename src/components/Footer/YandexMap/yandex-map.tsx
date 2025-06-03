@@ -14,7 +14,7 @@ const LOCATION: YMapLocationRequest = {
 	zoom: 17,
 }
 
-export const YandexMap: React.FC = () => {
+export function YandexMap() {
 	return (
 		<div className={styles.map}>
 			<YMap location={reactify.useDefault(LOCATION)}>

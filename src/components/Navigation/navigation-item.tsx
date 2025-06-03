@@ -16,8 +16,8 @@ export const NavItem = memo(({ targetId, children, className, onClick }: NavItem
 	}, [targetId, onClick])
 
 	return (
-		<li tabIndex={0} className={`${className ?? ''}`}>
-			<button type="button" onClick={handleClick} className={styles.navItem}>
+		<li className={`${className ?? ''}`}>
+			<button type="button" onClick={handleClick} className={styles.navItem} tabIndex={0}>
 				{children}
 			</button>
 		</li>

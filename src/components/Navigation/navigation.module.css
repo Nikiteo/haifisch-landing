@@ -53,7 +53,7 @@
 	width: 100%;
 }
 
-.hideContacts {
+.hide {
 	@media (width >=960px) {
 		display: none;
 	}

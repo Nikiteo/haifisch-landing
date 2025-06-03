@@ -12,7 +12,7 @@ function getShortText(text: string): string {
 	return text
 }
 
-export const Contacts: React.FC = () => {
+export function Contacts() {
 	const isDesktop = useMediaQuery('(min-width: 640px)')
 
 	const CONTACT_LINKS = BASE_CONTACT_LINKS.map(link => ({

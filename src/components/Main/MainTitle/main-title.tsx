@@ -1,6 +1,6 @@
 import styles from './main-title.module.css'
 
-export const MainTitle: React.FC = () => {
+export function MainTitle() {
 	return (
 		<h1 className={styles.title}>
 			изделия

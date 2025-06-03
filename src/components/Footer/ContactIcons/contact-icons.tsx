@@ -1,7 +1,7 @@
 import { CONTACT_ICONS } from '../constants'
 import styles from './contact-icons.module.css'
 
-export const ContactIcons: React.FC = () => {
+export function ContactIcons() {
 	return (
 		<div className={styles.iconLinks}>
 			{CONTACT_ICONS.map(icon => (

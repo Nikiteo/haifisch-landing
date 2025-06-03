@@ -3,7 +3,7 @@ import { Card, Container, ShopsTitle } from '@/components'
 import { SHOPS } from './constants'
 import styles from './shops.module.css'
 
-const ShopsPage: React.FC = () => {
+function ShopsPage() {
 	return (
 		<Container id="shops">
 			<div className={styles.textContainer}>

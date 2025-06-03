@@ -5,7 +5,7 @@ import { AboutTitle, Container } from '@/components'
 
 import styles from './about-page.module.css'
 
-const AboutPage: React.FC = () => {
+function AboutPage() {
 	return (
 		<Container id="about">
 			<div className={styles.textContainer}>

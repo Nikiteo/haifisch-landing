@@ -5,7 +5,7 @@ interface ContainerProps {
 	className?: string
 }
 
-export const Container: React.FC<ContainerProps & React.PropsWithChildren> = ({ id, className, children }) => {
+export function Container({ id, className, children }: ContainerProps & React.PropsWithChildren) {
 	return (
 		<section id={id} className={`${styles.section} ${className ?? ''}`}>
 			<div className={styles.container}>{children}</div>

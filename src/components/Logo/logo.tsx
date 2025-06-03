@@ -6,7 +6,7 @@ interface LogoProps {
 	className?: string
 }
 
-export const Logo: React.FC<LogoProps> = ({ src, alt, className }) => {
+export function Logo({ src, alt, className }: LogoProps) {
 	return (
 		<a
 			href="https://haifisch.ru"

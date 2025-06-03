@@ -64,14 +64,6 @@
 	@media (width >=640px) {
 		width: 50%;
 	}
-
-	@media (width >=960px) {
-		width: 50%;
-	}
-
-	@media (width >=1200px) {
-		width: 50%;
-	}
 }
 
 .description {

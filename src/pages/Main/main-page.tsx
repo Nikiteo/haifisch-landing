@@ -4,11 +4,11 @@ import { Button, Header, MainImage, MainTitle } from '@/components'
 
 import styles from './main.module.css'
 
-const MainPage: React.FC = () => {
+function MainPage() {
 	return (
 		<>
 			<Header />
-			<main className={styles.main}>
+			<main id="main" className={styles.main}>
 				<div className={styles.container}>
 					<div className={styles.content}>
 						<MainTitle />

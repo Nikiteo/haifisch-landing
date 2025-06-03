@@ -29,7 +29,7 @@ interface ButtonAsLinkProps extends BaseButtonProps {
 
 type ButtonProps = ButtonAsButtonProps | ButtonAsLinkProps
 
-export const Button: React.FC<ButtonProps> = (props) => {
+export function Button(props: ButtonProps) {
 	const {
 		children,
 		variant = 'primary',

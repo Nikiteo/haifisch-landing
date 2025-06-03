@@ -2,7 +2,7 @@ import { t } from 'i18next'
 
 import styles from './shops-title.module.css'
 
-export const ShopsTitle: React.FC = () => {
+export function ShopsTitle() {
 	return (
 		<div className={styles.container}>
 			<hgroup>

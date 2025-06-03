@@ -3,7 +3,7 @@ import { t } from 'i18next'
 import { ContactIcons, Contacts, Copyrights, YandexMap } from '@/components'
 import styles from './footer.module.css'
 
-const FooterPage: React.FC = () => {
+function FooterPage() {
 	return (
 		<footer id="contacts" className={styles.footer}>
 			<div className={styles.container}>
