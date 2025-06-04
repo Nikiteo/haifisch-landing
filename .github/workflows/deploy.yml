@@ -45,7 +45,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd ~/haifisch-front
-            rm -rf assets index.html *.js *.css *.ico
+            rm -rf ./*
 
       - name: Upload built files
         uses: appleboy/scp-action@v0.1.4
