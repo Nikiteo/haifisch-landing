@@ -6,7 +6,6 @@ export default antfu({
 		indent: 'tab',
 		quotes: 'single',
 	},
-	// ignores: ['src/lib/ymaps.ts']
 	react: true,
 	typescript: { tsconfigPath: 'tsconfig.json' },
 	formatters: {

@@ -1,24 +1,29 @@
 {
-    "name": "Haifisch - Изделия из искусственного камня",
-    "short_name": "Haifisch",
-    "description": "Производство декоративных изделий из искусственного камня",
-    "icons": [
-        {
-            "src": "/assets/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/assets/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone",
-    "start_url": "/",
-    "scope": "/",
-    "orientation": "portrait-primary",
-    "categories": ["construction", "home", "kitchen"]
+  "name": "Haifisch - Изделия из искусственного камня",
+  "short_name": "Haifisch",
+  "description": "Производство декоративных изделий из искусственного камня",
+  "lang": "ru",
+  "dir": "ltr",
+  "id": "/",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "categories": ["construction", "home", "kitchen"],
+  "icons": [
+    {
+      "src": "/assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }

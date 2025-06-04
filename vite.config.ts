@@ -1,29 +1,18 @@
-import process from 'node:process'
 import { fileURLToPath } from 'node:url'
+import svgr from '@svgr/rollup'
 import react from '@vitejs/plugin-react'
 import cssnano from 'cssnano'
-import { defineConfig, loadEnv } from 'vite'
-import { createHtmlPlugin } from 'vite-plugin-html'
+import { defineConfig } from 'vite'
 import { ViteImageOptimizer } from 'vite-plugin-image-optimizer'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 export default defineConfig(({ mode }) => {
-	const env = loadEnv(mode, process.cwd(), '')
-
 	return {
 		base: '/',
 		plugins: [
 			react(),
-			createHtmlPlugin({
-				inject: {
-					data: {
-						yandexApiKey: env.VITE_YANDEX_MAPS_API_KEY || '',
-						appVersion: env.npm_package_version,
-					},
-				},
-				minify: true,
-			}),
+			svgr(),
 			ViteImageOptimizer({
 				jpg: { quality: 80 },
 				png: { quality: 80 },

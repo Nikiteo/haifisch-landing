@@ -1,7 +1,7 @@
 .iconLinks {
 	display: flex;
 	flex-direction: row;
-	gap: 0.625rem;
+	gap: 0.1rem;
 
 	margin-top: 1.25rem;
 
@@ -14,12 +14,11 @@
 	}
 }
 
-.icon {
-	width: 2.625rem;
-	height: 2.625rem;
+.icon g path {
+	fill: var(--color-bg-secondary);
+	transition: fill .2s ease;
+}
 
-	@media (width >=640px) {
-		width: 3.25rem;
-		height: 3.25rem;
-	}
+.icon:hover g path {
+	fill: var(--color-icon-hover);
 }

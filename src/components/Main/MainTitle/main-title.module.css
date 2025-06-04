@@ -4,13 +4,16 @@
 	color: var(--color-text-primary);
 	text-transform: uppercase;
 	transition: font-size 0.3s ease;
+	padding: 0.75rem var(--space-xs) 0 var(--space-xs);
 
 	@media (width >=480px) {
 		font-size: 2rem;
+		padding: 0.75rem var(--space-sm) 0 var(--space-sm);
 	}
 
 	@media (width >=640px) {
 		font-size: 2rem;
+		padding: 0;
 	}
 
 	@media (width >=960px) {

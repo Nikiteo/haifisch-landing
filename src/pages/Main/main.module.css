@@ -57,11 +57,11 @@
 .content {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
 	width: 100%;
 	z-index: 2;
 
 	@media (width >=640px) {
+		justify-content: center;
 		width: 50%;
 	}
 }
@@ -72,14 +72,17 @@
 	margin: 1.25rem 0;
 	line-height: 1.4;
 	color: var(--color-text-primary);
+	padding: 0 var(--space-xs);
 
 	@media (width >=480px) {
 		font-size: 1rem;
 		width: 80%;
+		margin: 1.5rem 0;
+		padding: 0 var(--space-sm);
 	}
 
 	@media (width >=640px) {
-		margin: 1.5rem 0;
+		padding: 0;
 	}
 
 	@media (width >=1200px) {
@@ -89,4 +92,13 @@
 
 .button {
 	align-self: flex-start;
+	margin: 0 var(--space-xs) 3.5rem var(--space-xs);
+
+	@media (width >=480px) {
+	margin: 0 var(--space-sm) 3.75rem var(--space-sm);
+	}
+
+	@media (width >=640px) {
+		margin: 0;
+	}
 }

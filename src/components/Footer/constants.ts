@@ -1,4 +1,4 @@
-import { call, mail, telegram, vk } from '@/assets'
+import { call as CallIcon, mail as MailIcon, tg as TelegramIcon, vk as VkIcon } from '@/assets'
 
 export const CONTACT_LINKS = [
 	{
@@ -17,19 +17,19 @@ export const CONTACT_LINKS = [
 
 export const CONTACT_ICONS = [
 	{
-		icon: vk,
+		icon: VkIcon,
 		href: 'https://vk.com/haifisch_factory',
 	},
 	{
-		icon: telegram,
+		icon: TelegramIcon,
 		href: 'https://t.me/haifisch_stone',
 	},
 	{
-		icon: mail,
+		icon: MailIcon,
 		href: 'mailto:haifisch-store@yandex.ru',
 	},
 	{
-		icon: call,
+		icon: CallIcon,
 		href: 'tel:+79851627394',
 	},
 ]

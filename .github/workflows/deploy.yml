@@ -31,7 +31,6 @@ jobs:
 
       - name: Build project
         run: |
-          echo "VITE_YANDEX_MAPS_API_KEY=${{ secrets.YANDEX_MAPS_API_KEY }}" > .env
           npm run build
           echo "BUILD_DATE=$(date +'%Y.%m.%d-%H:%M')" >> $GITHUB_ENV
 
