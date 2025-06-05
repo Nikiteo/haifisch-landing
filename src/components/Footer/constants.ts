@@ -19,17 +19,21 @@ export const CONTACT_ICONS = [
 	{
 		icon: VkIcon,
 		href: 'https://vk.com/haifisch_factory',
+		labelkey: 'aria.vk-icon',
 	},
 	{
 		icon: TelegramIcon,
 		href: 'https://t.me/haifisch_stone',
+		labelkey: 'aria.tg-icon',
 	},
 	{
 		icon: MailIcon,
 		href: 'mailto:haifisch-store@yandex.ru',
+		labelkey: 'aria.mail-icon',
 	},
 	{
 		icon: CallIcon,
 		href: 'tel:+79851627394',
+		labelkey: 'aria.call-icon',
 	},
 ]
