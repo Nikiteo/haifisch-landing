@@ -1,6 +1,6 @@
 import { t } from 'i18next'
 
-import { ContactIcons, Contacts, Copyrights, LazyYandexMap } from '@/components'
+import { ContactIcons, Contacts, Copyrights, YandexMap } from '@/components'
 import styles from './index.module.css'
 
 function FooterPage() {
@@ -13,7 +13,7 @@ function FooterPage() {
 						<Contacts />
 						<ContactIcons />
 					</div>
-					<LazyYandexMap />
+					<YandexMap />
 				</div>
 				<Copyrights />
 			</div>

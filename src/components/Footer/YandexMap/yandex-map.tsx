@@ -15,7 +15,7 @@ const LOCATION: YMapLocationRequest = {
 	zoom: 17,
 }
 
-function YandexMap() {
+export const YandexMap = memo(() => {
 	return (
 		<div className={styles.map}>
 			<YMap location={reactify.useDefault(LOCATION)}>
@@ -32,6 +32,4 @@ function YandexMap() {
 			</YMap>
 		</div>
 	)
-}
-
-export default memo(YandexMap)
+})

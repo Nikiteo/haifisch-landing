@@ -1,5 +1,4 @@
 import { t } from 'i18next'
-
 import { circle, green } from '@/assets'
 import { AdvantagesList, Container } from '@/components'
 import styles from './index.module.css'
