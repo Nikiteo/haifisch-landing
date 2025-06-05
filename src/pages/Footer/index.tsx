@@ -3,13 +3,13 @@ import { t } from 'i18next'
 import { ContactIcons, Contacts, Copyrights, YandexMap } from '@/components'
 import styles from './index.module.css'
 
-function FooterPage() {
+function Footer() {
 	return (
 		<footer id="contacts" className={styles.footer}>
 			<div className={styles.container}>
 				<div className={styles.block}>
 					<div className={styles.linksContainer}>
-						<h2 className={styles.title}>{t('footer.title')}</h2>
+						<h3 className={styles.title}>{t('footer.title')}</h3>
 						<Contacts />
 						<ContactIcons />
 					</div>
@@ -22,4 +22,4 @@ function FooterPage() {
 	)
 }
 
-export default FooterPage
+export default Footer

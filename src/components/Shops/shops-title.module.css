@@ -1,4 +1,6 @@
 .container {
+	padding-inline: var(--container-padding);
+
 	@media (width >=960px) {
 		width: calc(50% + var(--gap-lg));
 	}
@@ -37,7 +39,7 @@
 	text-transform: uppercase;
 	transition: font-size 0.3s ease;
 	word-break: keep-all;
-	white-space: wrap;
+	white-space: normal;
 
 	@media (width >=480px) {
 		font-size: var(--heading-size-sm);

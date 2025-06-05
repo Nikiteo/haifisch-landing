@@ -11,9 +11,10 @@ interface CardProps {
 	logo: string
 	link: string
 	position: string
+	type: 'market' | 'ozon'
 }
 
-export function Card({ image, alt, logo, link, position }: Readonly<CardProps>) {
+export function Card({ image, alt, logo, link, position, type }: Readonly<CardProps>) {
 	return (
 		<div
 			className={styles.card}
@@ -24,7 +25,7 @@ export function Card({ image, alt, logo, link, position }: Readonly<CardProps>) 
 				} as React.CSSProperties
 			}
 		>
-			<img src={logo} alt={alt} className={link.includes('ozon') ? styles.ozonLogo : styles.logo} loading="lazy" />
+			<img src={logo} alt={alt} className={type === 'ozon' ? styles.ozonLogo : styles.logo} loading="lazy" />
 			<Button
 				variant="primary"
 				size="large"

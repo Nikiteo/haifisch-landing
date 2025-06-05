@@ -6,7 +6,7 @@ import styles from './index.module.css'
 function AdvantagesPage() {
 	return (
 		<Container>
-			<div style={{ position: 'relative', zIndex: '1' }}>
+			<div className={styles.relativeWrapper}>
 				<div className={styles.textContainer}>
 					<div className={styles.box}>
 						<h3 className={styles.title}>{t('advantages.title')}</h3>

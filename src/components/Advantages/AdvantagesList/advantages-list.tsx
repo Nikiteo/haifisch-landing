@@ -7,12 +7,12 @@ export function AdvantagesList() {
 		<ul className={styles.list}>
 			{ADVANTAGES.map(({ number, titleKey, textKey }) => (
 				<li key={number} className={styles.item}>
-					<span className={styles.number}>
+					<span className={styles.number} aria-hidden="true">
 						{number}
 						/
 					</span>
 					<div className={styles.itemHeader}>
-						<span className={styles.itemTitle}>{t(titleKey)}</span>
+						<h4 className={styles.itemTitle}>{t(titleKey)}</h4>
 						<p className={styles.itemText}>{t(textKey)}</p>
 					</div>
 				</li>

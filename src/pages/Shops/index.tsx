@@ -18,6 +18,7 @@ function ShopsPage() {
 						alt={shop.alt}
 						logo={shop.logo}
 						link={shop.link}
+						type={shop.type}
 						position={shop.backgroundPosition}
 					/>
 				))}

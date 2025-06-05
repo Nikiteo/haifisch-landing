@@ -5,7 +5,7 @@
 
 .item {
 	display: flex;
-	border-top: 1px solid rgba(108, 108, 108, 0.8);
+	border-bottom: 1px solid rgba(108, 108, 108, 0.8);
 	padding: 1.5rem 0;
 	gap: 0.625rem;
 
@@ -33,14 +33,6 @@
 	@media (width >=1200px) {
 		font-size: var(--heading-size-sm);
 	}
-}
-
-.item:first-child {
-	border-top: 0;
-}
-
-.item:last-child {
-	border-bottom: 1px solid rgba(108, 108, 108, 0.8);
 }
 
 .number {

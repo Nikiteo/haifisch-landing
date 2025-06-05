@@ -16,7 +16,6 @@ export function DrawLogo() {
 					className={styles.strokePath}
 				/>
 			</svg>
-
 		</div>
 	)
 }
