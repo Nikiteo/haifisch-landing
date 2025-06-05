@@ -26,7 +26,7 @@
 	margin: 0;
 	padding: 0;
 	cursor: pointer;
-	font-size: 1.125rem;
+	font-size: var(--heading-size-xs);
 	color: var(----color-text-primary);
 	position: relative;
 	text-transform: uppercase;

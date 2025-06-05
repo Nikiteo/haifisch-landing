@@ -68,7 +68,7 @@
 
 .description {
 	width: 100%;
-	font-size: 0.9375rem;
+	font-size: var(--font-size-xs);
 	margin: 1.25rem 0;
 	line-height: 1.4;
 	color: var(--color-text-primary);
@@ -95,7 +95,7 @@
 	margin: 0 var(--space-xs) 3.5rem var(--space-xs);
 
 	@media (width >=480px) {
-	margin: 0 var(--space-sm) 3.75rem var(--space-sm);
+		margin: 0 var(--space-sm) 3.75rem var(--space-sm);
 	}
 
 	@media (width >=640px) {

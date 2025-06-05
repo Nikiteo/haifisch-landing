@@ -9,6 +9,7 @@ import '@fontsource/playfair-display/400-italic.css'
 
 const MainPage = lazy(async () => import('@/pages/Main/main-page'))
 const AboutPage = lazy(async () => import('@/pages/About/about-page'))
+const AdvantagesPage = lazy(async () => import('@/pages/Advantages/advantages-page'))
 const ShopsPage = lazy(async () => import('@/pages/Shops/shops-page'))
 const FooterPage = lazy(async () => import('@/pages/Footer/footer-page'))
 
@@ -17,6 +18,7 @@ export function App() {
 		<Suspense>
 			<MainPage />
 			<AboutPage />
+			<AdvantagesPage />
 			<ShopsPage />
 			<FooterPage />
 		</Suspense>

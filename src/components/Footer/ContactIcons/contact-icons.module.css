@@ -16,7 +16,7 @@
 
 .icon g path {
 	fill: var(--color-bg-secondary);
-	transition: fill .2s ease;
+	transition: fill 0.2s ease;
 }
 
 .icon:hover g path {

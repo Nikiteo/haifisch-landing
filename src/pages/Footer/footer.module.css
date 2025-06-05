@@ -60,24 +60,24 @@
 }
 
 .title {
-	font-size: 1.125rem;
+	font-size: var(--heading-size-xs);
 	color: var(--color-bg-secondary);
 
 	text-transform: uppercase;
 
 	@media (width >=480px) {
-		font-size: 1.375rem;
+		font-size: var(--heading-size-sm);
 	}
 
 	@media (width >=640px) {
-		font-size: 1.5rem;
+		font-size: var(--heading-size-md);
 	}
 
 	@media (width >=960px) {
-		font-size: 1.75rem;
+		font-size: var(--heading-size-lg);
 	}
 
 	@media (width >=1200px) {
-		font-size: 2.125rem;
+		font-size: var(--heading-size-xl);
 	}
 }

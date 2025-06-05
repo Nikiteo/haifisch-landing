@@ -5,21 +5,18 @@ import styles from './navigation.module.css'
 interface NavItemProps {
 	targetId: string
 	children: React.ReactNode
-	className?: string
 	onClick?: () => void
 }
 
-export const NavItem = memo(({ targetId, children, className, onClick }: NavItemProps) => {
+export const NavItem = memo(({ targetId, children, onClick }: NavItemProps) => {
 	const handleClick = useCallback(() => {
 		document.getElementById(targetId)?.scrollIntoView({ behavior: 'smooth' })
 		onClick?.()
 	}, [targetId, onClick])
 
 	return (
-		<li className={`${className ?? ''}`}>
-			<button type="button" onClick={handleClick} className={styles.navItem} tabIndex={0}>
-				{children}
-			</button>
-		</li>
+		<button type="button" onClick={handleClick} className={styles.navItem} tabIndex={0}>
+			{children}
+		</button>
 	)
 })

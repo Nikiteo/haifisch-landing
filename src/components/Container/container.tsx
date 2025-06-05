@@ -1,7 +1,7 @@
 import styles from './container.module.css'
 
 interface ContainerProps {
-	id: string
+	id?: string
 	className?: string
 }
 

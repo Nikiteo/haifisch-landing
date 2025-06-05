@@ -1,4 +1,5 @@
 export * from './About'
+export * from './Advantages'
 export * from './Button'
 export * from './Container'
 export * from './Footer'
