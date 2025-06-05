@@ -1,4 +1,6 @@
 import type { YMapLocationRequest } from 'ymaps3'
+import { memo } from 'react'
+
 import {
 	reactify,
 	YMap,
@@ -6,7 +8,6 @@ import {
 	YMapDefaultMarker,
 	YMapDefaultSchemeLayer,
 } from '@/lib/ymaps'
-
 import styles from './yandex-map.module.css'
 
 const LOCATION: YMapLocationRequest = {
@@ -14,7 +15,7 @@ const LOCATION: YMapLocationRequest = {
 	zoom: 17,
 }
 
-export function YandexMap() {
+function YandexMap() {
 	return (
 		<div className={styles.map}>
 			<YMap location={reactify.useDefault(LOCATION)}>
@@ -32,3 +33,5 @@ export function YandexMap() {
 		</div>
 	)
 }
+
+export default memo(YandexMap)

@@ -1,1 +1,1 @@
-export * from './yandex-map'
+export * from './lazy-yandex-map'
