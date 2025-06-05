@@ -14,7 +14,7 @@ export function Logo({ src, alt, className }: Readonly<LogoProps>) {
 			rel="noopener noreferrer"
 			className={`${styles.logo} ${className ?? ''} `}
 		>
-			<img loading="lazy" src={src} alt={alt} />
+			<img fetchPriority="high" src={src} alt={alt} />
 		</a>
 	)
 }

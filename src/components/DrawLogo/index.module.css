@@ -1,0 +1,49 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.logo {
+	width: 8.75rem;
+	height: 8.75rem;
+}
+
+.strokePath {
+	fill: none;
+	stroke: var(--color-text-primary);
+	stroke-width: 4;
+	stroke-dasharray: 1000;
+	stroke-dashoffset: 1000;
+	animation: drawLoop 4s ease-in-out infinite;
+}
+
+.strokePath:nth-of-type(2) {
+	stroke-width: 4;
+	animation-delay: 1s;
+}
+
+@keyframes drawLoop {
+	0% {
+		stroke-dashoffset: 1000;
+		opacity: 0;
+	}
+
+	10% {
+		opacity: 1;
+	}
+
+	40% {
+		stroke-dashoffset: 0;
+	}
+
+	70% {
+		stroke-dashoffset: 0;
+		opacity: 1;
+	}
+
+	100% {
+		stroke-dashoffset: 1000;
+		opacity: 0;
+	}
+}

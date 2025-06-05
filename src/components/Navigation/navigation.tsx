@@ -2,6 +2,7 @@ import { motion } from 'framer-motion'
 import { t } from 'i18next'
 import { memo } from 'react'
 
+import { DrawLogo } from '@/components'
 import { NAV_ITEMS } from './constants'
 import { NavItem } from './navigation-item'
 import styles from './navigation.module.css'
@@ -46,6 +47,9 @@ export const Navigation = memo(({ vertical = false, className, onItemClick }: Na
 					</motion.li>
 				))}
 			</motion.ul>
+			{isVertical && (
+				<DrawLogo />
+			)}
 		</nav>
 	)
 })
