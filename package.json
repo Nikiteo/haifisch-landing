@@ -9,7 +9,9 @@
 		"lint": "eslint",
 		"lint:fix": "eslint --fix",
 		"preview": "vite preview",
-		"update": "npx npm-check-updates -u && npm install"
+		"update": "npx npm-check-updates -u && npm install",
+		"lhci": "lhci autorun"
+
 	},
 	"dependencies": {
 		"framer-motion": "^12.16.0",
@@ -22,6 +24,7 @@
 		"@eslint/js": "^9.28.0",
 		"@fontsource/inter": "^5.2.5",
 		"@fontsource/playfair-display": "^5.2.5",
+		"@lhci/cli": "^0.14.0",
 		"@svgr/rollup": "^8.1.0",
 		"@types/node": "^22.15.29",
 		"@types/react": "^19.1.6",

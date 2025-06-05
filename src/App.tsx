@@ -1,7 +1,8 @@
 import { lazy, Suspense } from 'react'
 
-import MainPage from '@/pages/Main'
+import { FullPageLoader } from '@/components'
 
+import MainPage from '@/pages/Main'
 import './styles/global.css'
 import '@fontsource/inter/300.css'
 import '@fontsource/inter/400.css'
@@ -15,7 +16,7 @@ const FooterPage = lazy(async () => import('@/pages/Footer'))
 
 export function App() {
 	return (
-		<Suspense>
+		<Suspense fallback={<FullPageLoader />}>
 			<MainPage />
 			<AboutPage />
 			<AdvantagesPage />
