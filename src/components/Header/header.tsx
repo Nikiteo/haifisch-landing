@@ -22,6 +22,7 @@ export function Header() {
 				<Navigation />
 				<BurgerMenu />
 				<Button
+					aria-label={t('menu.contacts')}
 					className={styles.hideButton}
 					variant="outline"
 					onClick={handleContactClick}

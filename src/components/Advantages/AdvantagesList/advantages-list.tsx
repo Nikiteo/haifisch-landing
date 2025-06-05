@@ -1,18 +1,19 @@
+import { t } from 'i18next'
 import styles from './advantages-list.module.css'
-import { advantages } from './constants'
+import { ADVANTAGES } from './constants'
 
 export function AdvantagesList() {
 	return (
 		<ul className={styles.list}>
-			{advantages.map(item => (
-				<li key={item.number} className={styles.item}>
+			{ADVANTAGES.map(({ number, titleKey, textKey }) => (
+				<li key={number} className={styles.item}>
 					<span className={styles.number}>
-						{item.number}
+						{number}
 						/
 					</span>
 					<div className={styles.itemHeader}>
-						<span className={styles.itemTitle}>{item.title}</span>
-						<p className={styles.itemText}>{item.text}</p>
+						<span className={styles.itemTitle}>{t(titleKey)}</span>
+						<p className={styles.itemText}>{t(textKey)}</p>
 					</div>
 				</li>
 			))}

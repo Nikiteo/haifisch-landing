@@ -1,7 +1,7 @@
 import { Card, Container, ShopsTitle } from '@/components'
 
 import { SHOPS } from './constants'
-import styles from './shops.module.css'
+import styles from './index.module.css'
 
 function ShopsPage() {
 	return (

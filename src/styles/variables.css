@@ -47,4 +47,9 @@
 	--header-md: 4.5rem;
 	--header-lg: 6.625rem;
 	--header-xl: 7.625rem;
+
+	--gap-xl: 3.125rem;
+	--gap-lg: 1.625rem;
+	--gap-md: 0.5rem;
+
 }

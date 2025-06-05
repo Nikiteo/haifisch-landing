@@ -2,7 +2,7 @@ import { t } from 'i18next'
 
 import { circle, green } from '@/assets'
 import { AdvantagesList, Container } from '@/components'
-import styles from './advantages-page.module.css'
+import styles from './index.module.css'
 
 function AdvantagesPage() {
 	return (

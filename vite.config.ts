@@ -1,3 +1,4 @@
+import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import svgr from '@svgr/rollup'
 import react from '@vitejs/plugin-react'
@@ -22,7 +23,7 @@ export default defineConfig(({ mode }) => {
 		publicDir: 'public',
 		build: {
 			target: 'esnext',
-			chunkSizeWarningLimit: 1500,
+			chunkSizeWarningLimit: 1000,
 			rollupOptions: {
 				output: {
 					manualChunks: {
@@ -39,6 +40,7 @@ export default defineConfig(({ mode }) => {
 			terserOptions: {
 				compress: {
 					drop_console: mode === 'production',
+					drop_debugger: true,
 				},
 			},
 		},
@@ -48,15 +50,16 @@ export default defineConfig(({ mode }) => {
 		},
 		resolve: {
 			alias: {
-				'@': `${__dirname}/src`,
+				'@': path.resolve(__dirname, 'src'),
 			},
+			extensions: ['.js', '.ts', '.jsx', '.tsx'],
 		},
 		server: {
 			port: 3000,
 			open: true,
 			strictPort: true,
 			hmr: {
-				overlay: false,
+				overlay: true,
 			},
 		},
 		css: {

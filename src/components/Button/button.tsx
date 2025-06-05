@@ -51,8 +51,8 @@ export function Button(props: ButtonProps) {
 		className,
 	].join(' ').trim()
 
-	if ('as' in rest && rest.as === 'a') {
-		const { href, target, rel } = rest
+	if (props.as === 'a') {
+		const { href, target, rel } = props
 		return (
 			<a
 				className={classNames}

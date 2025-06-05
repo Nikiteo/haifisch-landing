@@ -1,8 +1,4 @@
 .textContainer {
-	--gap-xl: 3.125rem;
-	--gap-lg: 1.625rem;
-	--gap-md: 0.5rem;
-
 	display: flex;
 
 	@media (width >=640px) {

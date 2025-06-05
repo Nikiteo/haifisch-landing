@@ -3,7 +3,7 @@ import { t } from 'i18next'
 import { hero } from '@/assets'
 import { AboutTitle, Container } from '@/components'
 
-import styles from './about-page.module.css'
+import styles from './index.module.css'
 
 function AboutPage() {
 	return (

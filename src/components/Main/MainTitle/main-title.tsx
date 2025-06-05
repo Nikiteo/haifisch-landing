@@ -8,11 +8,11 @@ export function MainTitle() {
 			<span className={styles.for}>для</span>
 			{' '}
 			декора
-			<div className={styles.right}>
+			<span className={styles.right}>
 				<span className={styles.for}>из</span>
 				{' '}
 				искусственного камня
-			</div>
+			</span>
 		</h1>
 	)
 }

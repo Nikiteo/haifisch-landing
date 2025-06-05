@@ -27,8 +27,8 @@ export function BurgerMenu() {
 				aria-label={isOpen ? t('button.burger-aria-close') : t('button.burger-aria-open')}
 			>
 				<div className={styles.iconWrapper}>
-					<span className={`${styles.line} ${isOpen ? styles.line1Open : ''}`} />
-					<span className={`${styles.line} ${isOpen ? styles.line2Open : ''}`} />
+					<span className={`${styles.line} ${isOpen && styles.line1Open}`} />
+					<span className={`${styles.line} ${isOpen && styles.line2Open}`} />
 				</div>
 			</button>
 

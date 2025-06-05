@@ -2,6 +2,7 @@ import { motion } from 'framer-motion'
 import { t } from 'i18next'
 import { memo } from 'react'
 
+import { NAV_ITEMS } from './constants'
 import { NavItem } from './navigation-item'
 import styles from './navigation.module.css'
 
@@ -30,38 +31,20 @@ export const Navigation = memo(({ vertical = false, className, onItemClick }: Na
 	const isVertical = vertical
 
 	return (
-		<nav>
+		<nav aria-label={t('aria.nav-main')}>
 			<motion.ul
 				initial={isVertical ? 'hidden' : false}
 				animate={isVertical ? 'show' : false}
 				variants={isVertical ? variants : undefined}
 				className={`${styles.nav} ${isVertical ? styles.vertical : styles.horizontal} ${className ?? ''}`}
 			>
-				<motion.li variants={itemVariants} className={styles.hide}>
-					<NavItem targetId="main" onClick={onItemClick}>
-						{t('main.nav')}
-					</NavItem>
-				</motion.li>
-				<motion.li variants={itemVariants}>
-					<NavItem targetId="about" onClick={onItemClick}>
-						{t('menu.about')}
-					</NavItem>
-				</motion.li>
-				<motion.li variants={itemVariants}>
-					<NavItem targetId="catalog" onClick={onItemClick}>
-						{t('button.catalog')}
-					</NavItem>
-				</motion.li>
-				<motion.li variants={itemVariants}>
-					<NavItem targetId="shops" onClick={onItemClick}>
-						{t('menu.shops')}
-					</NavItem>
-				</motion.li>
-				<motion.li variants={itemVariants} className={styles.hide}>
-					<NavItem targetId="contacts" onClick={onItemClick}>
-						{t('menu.contacts')}
-					</NavItem>
-				</motion.li>
+				{NAV_ITEMS.map(({ id, labelKey, hideOnDesktop }) => (
+					<motion.li key={id} variants={itemVariants} className={hideOnDesktop ? styles.hide : undefined}>
+						<NavItem targetId={id} onClick={onItemClick}>
+							{t(labelKey)}
+						</NavItem>
+					</motion.li>
+				))}
 			</motion.ul>
 		</nav>
 	)

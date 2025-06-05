@@ -1,7 +1,7 @@
 import { t } from 'i18next'
 
 import { ContactIcons, Contacts, Copyrights, YandexMap } from '@/components'
-import styles from './footer.module.css'
+import styles from './index.module.css'
 
 function FooterPage() {
 	return (

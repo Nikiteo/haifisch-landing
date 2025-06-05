@@ -1,8 +1,4 @@
 .imageWrapper {
-	--gap-xl: 3.125rem;
-	--gap-lg: 1.625rem;
-	--gap-md: 0.5rem;
-
 	margin-top: 1.25rem;
 
 	@media (width >=640px) {
@@ -22,7 +18,7 @@
 	width: 100%;
 	object-fit: cover;
 	object-position: center;
-	height: clamp(230px, 72vw, 346px);
+	height: min(clamp(230px, 72vw, 346px), 100%);
 
 	@media (width >=640px) {
 		height: 100%;

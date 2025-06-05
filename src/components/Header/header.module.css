@@ -13,10 +13,6 @@
 		padding: 1.5rem 0;
 	}
 
-	@media (width >=960px) {
-		padding: 1.5rem 0;
-	}
-
 	@media (width >=1200px) {
 		padding: 2rem 0;
 	}
