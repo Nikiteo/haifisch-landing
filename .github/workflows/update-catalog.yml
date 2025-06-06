@@ -38,4 +38,4 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add src/assets/catalog.json
           git commit -m "Update catalog.json"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} main
