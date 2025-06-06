@@ -21,7 +21,7 @@ jobs:
         id: check-changes
         shell: bash
         run: |
-          if [[ $(git diff --stat src/catalog.json | wc -l) != 0 ]]; then
+          if [[ $(git diff --stat src/assets/catalog.json | wc -l) != 0 ]]; then
               echo "::set-output name=has_changes::true"
           else
               echo "::set-output name=has_changes::false"
@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add src/catalog.json
+          git add src/assets/catalog.json
           git commit -m "Update catalog.json"
           git push
