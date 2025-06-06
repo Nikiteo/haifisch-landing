@@ -1,0 +1,6 @@
+export * from './About'
+export * from './Advantages'
+export * from './Catalog'
+export * from './Footer'
+export * from './Main'
+export * from './Shops'

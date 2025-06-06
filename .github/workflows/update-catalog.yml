@@ -1,0 +1,37 @@
+name: Update Catalog
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Выполняется ежедневно в 3 часа утра UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build catalog
+        run: npm run build:catalog
+
+      - name: Check for changes in catalog.json
+        id: check-changes
+        shell: bash
+        run: |
+          if [[ $(git diff --stat src/catalog.json | wc -l) != 0 ]]; then
+              echo "::set-output name=has_changes::true"
+          else
+              echo "::set-output name=has_changes::false"
+          fi
+
+      - name: Commit and push changes
+        if: ${{ steps.check-changes.outputs.has_changes }}
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add src/catalog.json
+          git commit -m "Update catalog.json"
+          git push

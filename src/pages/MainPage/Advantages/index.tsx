@@ -3,7 +3,7 @@ import { circle, green } from '@/assets'
 import { AdvantagesList, Container } from '@/components'
 import styles from './index.module.css'
 
-function AdvantagesPage() {
+function Advantages() {
 	return (
 		<Container>
 			<div className={styles.relativeWrapper}>
@@ -27,4 +27,4 @@ function AdvantagesPage() {
 	)
 }
 
-export default AdvantagesPage
+export default Advantages

@@ -10,8 +10,7 @@
 		"lint:fix": "eslint --fix",
 		"preview": "vite preview",
 		"update": "npx npm-check-updates -u && npm install",
-		"lhci": "lhci autorun"
-
+		"build:catalog": "tsx scripts/build-catalog.ts"
 	},
 	"dependencies": {
 		"framer-motion": "^12.16.0",
@@ -24,9 +23,8 @@
 		"@eslint/js": "^9.28.0",
 		"@fontsource/inter": "^5.2.5",
 		"@fontsource/playfair-display": "^5.2.5",
-		"@lhci/cli": "^0.14.0",
 		"@svgr/rollup": "^8.1.0",
-		"@types/node": "^22.15.29",
+		"@types/node": "^22.15.30",
 		"@types/react": "^19.1.6",
 		"@types/react-dom": "^19.1.6",
 		"@vitejs/plugin-react": "^4.5.1",
@@ -37,9 +35,12 @@
 		"eslint-plugin-format": "^1.0.1",
 		"eslint-plugin-react-hooks": "^5.2.0",
 		"eslint-plugin-react-refresh": "^0.4.20",
+		"fast-xml-parser": "^5.2.3",
 		"i18next": "^25.2.1",
+		"node-fetch": "^3.3.2",
 		"react-i18next": "^15.5.2",
 		"sharp": "^0.34.2",
+		"tsx": "^4.19.4",
 		"typescript": "~5.8.3",
 		"vite": "^6.3.5",
 		"vite-plugin-image-optimizer": "^1.1.8"

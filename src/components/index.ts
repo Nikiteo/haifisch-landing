@@ -1,6 +1,7 @@
 export * from './About'
 export * from './Advantages'
 export * from './Button'
+export * from './Catalog'
 export * from './Container'
 export * from './DrawLogo'
 export * from './Footer'

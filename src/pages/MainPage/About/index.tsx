@@ -5,7 +5,7 @@ import { AboutTitle, Container } from '@/components'
 
 import styles from './index.module.css'
 
-function AboutPage() {
+function About() {
 	return (
 		<Container id="about">
 			<div className={styles.textContainer}>
@@ -19,4 +19,4 @@ function AboutPage() {
 	)
 }
 
-export default AboutPage
+export default About

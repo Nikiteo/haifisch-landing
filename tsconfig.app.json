@@ -29,6 +29,6 @@
 		"skipLibCheck": true,
 		"noUncheckedSideEffectImports": true
 	},
-	"include": ["src", "@types"],
+	"include": ["src", "@types", "scripts"],
 	"exclude": ["vite.config.ts"]
 }

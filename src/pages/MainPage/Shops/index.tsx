@@ -3,7 +3,7 @@ import { Card, Container, ShopsTitle } from '@/components'
 import { SHOPS } from './constants'
 import styles from './index.module.css'
 
-function ShopsPage() {
+function Shops() {
 	return (
 		<Container id="shops">
 			<div className={styles.textContainer}>
@@ -27,4 +27,4 @@ function ShopsPage() {
 	)
 }
 
-export default ShopsPage
+export default Shops

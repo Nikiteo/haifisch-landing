@@ -1,3 +1,8 @@
+.relativeWrapper {
+	position: relative;
+	z-index: 1;
+}
+
 .textContainer {
 	display: flex;
 	flex-direction: column;
@@ -144,7 +149,7 @@
 .imageRight {
 	display: none;
 	position: absolute;
-	top: 6.25rem;
+	top: 7.5rem;
 	right: 0;
 	z-index: -1;
 
@@ -163,9 +168,4 @@
 		max-width: 24rem;
 		max-height: 24rem;
 	}
-}
-
-.relativeWrapper {
-	position: relative;
-	z-index: 1;
 }

@@ -1,6 +1,8 @@
 export { default as circle } from './advantages-circle.webp'
 export { default as green } from './advantages-green.webp'
 export { ReactComponent as call } from './call.svg'
+export { default as catalogData } from './catalog.json'
+export { default as catalog } from './catalog.webp'
 export { default as logoDark } from './haifisch-dark.webp'
 export { default as logo } from './haifisch.webp'
 export { default as hero } from './hero.webp'
