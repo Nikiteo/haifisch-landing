@@ -9,7 +9,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install dependencies
         run: npm install
@@ -22,16 +24,18 @@ jobs:
         shell: bash
         run: |
           if [[ $(git diff --stat src/assets/catalog.json | wc -l) != 0 ]]; then
-              echo "::set-output name=has_changes::true"
+              echo "has_changes=true" >> $GITHUB_OUTPUT
           else
-              echo "::set-output name=has_changes::false"
+              echo "has_changes=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit and push changes
-        if: ${{ steps.check-changes.outputs.has_changes }}
+        if: steps.check-changes.outputs.has_changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add src/assets/catalog.json
           git commit -m "Update catalog.json"
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
