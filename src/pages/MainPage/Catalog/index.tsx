@@ -1,11 +1,11 @@
 import { t } from 'i18next'
 import { catalog } from '@/assets'
-import { Categories, Container } from '@/components'
+import { Categories, Container, Offers } from '@/components'
 import styles from './index.module.css'
 
 function Catalog() {
 	return (
-		<Container id="catalog">
+		<Container id="catalog" isAnimated={false}>
 			<div className={styles.wrapper}>
 				<div className={styles.box} />
 				<div className={styles.container}>
@@ -18,6 +18,7 @@ function Catalog() {
 				</div>
 				<Categories />
 			</div>
+			<Offers />
 		</Container>
 	)
 }

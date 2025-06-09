@@ -47,6 +47,7 @@ export interface ResponseCategory {
 
 export interface ResponseOffers {
 	name: string
+	shortName: string
 	categoryId: string
 	picture: string
 	price: string

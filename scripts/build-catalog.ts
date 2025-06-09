@@ -4,6 +4,7 @@ import { resolve } from 'node:path'
 import process from 'node:process'
 import { XMLParser } from 'fast-xml-parser'
 import fetch from 'node-fetch'
+import { getShortProductName } from '../src/lib/get-short-product-name'
 
 const XML_URL
   = 'https://market-idx-pub.s3.yandex.net/businesses-EB05E51D6B4DBD5A15A9.xml'
@@ -58,6 +59,7 @@ async function main() {
 
 	const responseOffers: ResponseOffers[] = filteredOffers.map(offer => ({
 		name: offer.name,
+		shortName: getShortProductName(offer.name),
 		categoryId: offer.categoryId,
 		picture: offer.picture,
 		price: offer.price,

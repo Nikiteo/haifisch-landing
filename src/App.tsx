@@ -1,7 +1,8 @@
 import { lazy, Suspense } from 'react'
 
-import { FullPageLoader } from '@/components'
+import { Route, Routes } from 'react-router-dom'
 
+import { FullPageLoader } from '@/components'
 import Main from '@/pages/MainPage/Main'
 import './styles/global.css'
 import '@fontsource/inter/300.css'
@@ -18,12 +19,22 @@ const Footer = lazy(async () => import('@/pages/MainPage/Footer'))
 export function App() {
 	return (
 		<Suspense fallback={<FullPageLoader />}>
-			<Main />
-			<About />
-			<Catalog />
-			<Advantages />
-			<Shops />
-			<Footer />
+			<Routes>
+				<Route
+					path="/"
+					element={(
+						<>
+							<Main />
+							<About />
+							<Catalog />
+							<Advantages />
+							<Shops />
+							<Footer />
+						</>
+					)}
+				/>
+				<Route path="/catalog" element={<Catalog />} />
+			</Routes>
 		</Suspense>
 	)
 }

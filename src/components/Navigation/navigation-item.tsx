@@ -1,5 +1,6 @@
 import React, { memo, useCallback } from 'react'
 
+import { scrollToId } from '@/hooks'
 import styles from './navigation.module.css'
 
 interface NavItemProps {
@@ -10,7 +11,7 @@ interface NavItemProps {
 
 export const NavItem = memo(({ targetId, children, onClick }: NavItemProps) => {
 	const handleClick = useCallback(() => {
-		document.getElementById(targetId)?.scrollIntoView({ behavior: 'smooth' })
+		scrollToId(targetId)
 		onClick?.()
 	}, [targetId, onClick])
 

@@ -4,15 +4,13 @@ import { useCallback } from 'react'
 import { logo } from '@/assets'
 import { Button, Logo, Navigation } from '@/components'
 
+import { scrollToId } from '@/hooks'
 import { BurgerMenu } from './BurgerMenu/burger-menu'
 import styles from './header.module.css'
 
 export function Header() {
 	const handleContactClick = useCallback(() => {
-		const section = document.getElementById('contacts')
-		if (section) {
-			section.scrollIntoView({ behavior: 'smooth' })
-		}
+		scrollToId('contacts')
 	}, [])
 
 	return (

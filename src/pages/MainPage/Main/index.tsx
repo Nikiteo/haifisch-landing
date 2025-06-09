@@ -3,17 +3,15 @@ import { t } from 'i18next'
 import { useCallback } from 'react'
 
 import { Button, Header, MainImage, MainTitle } from '@/components'
+import { scrollToId } from '@/hooks'
 import { useMediaQuery } from '@/hooks/use-media-query'
 import styles from './index.module.css'
 
 function Main() {
 	const isDesktop = useMediaQuery('(min-width: 640px)')
 
-	const handleContactClick = useCallback(() => {
-		const section = document.getElementById('catalog')
-		if (section) {
-			section.scrollIntoView({ behavior: 'smooth' })
-		}
+	const handleCatalogClick = useCallback(() => {
+		scrollToId('catalog')
 	}, [])
 
 	const Content = (
@@ -21,7 +19,7 @@ function Main() {
 			<MainTitle />
 			{!isDesktop && <MainImage />}
 			<p className={styles.description}>{t('main.text')}</p>
-			<Button variant="primary" className={styles.button} onClick={handleContactClick}>
+			<Button variant="primary" className={styles.button} onClick={handleCatalogClick}>
 				{t('button.catalog')}
 			</Button>
 		</>
