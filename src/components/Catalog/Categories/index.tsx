@@ -10,7 +10,7 @@ export const Categories = memo(() => {
 
 	const handleClick = useCallback((id: string) => {
 		setSearchParams({ category: id }, { replace: true })
-		scrollToId(id)
+		scrollToId('offers')
 	}, [setSearchParams])
 
 	return (
