@@ -1,4 +1,6 @@
 export function getShortProductName(name: string): string {
+	if (name.toLocaleLowerCase().includes('кашпо'))
+		return 'Кашпо'
 	if (name.toLocaleLowerCase().includes('мыльниц')) {
 		if (name.toLocaleLowerCase().includes('со сливом'))
 			return 'Мыльница со сливом'
@@ -23,7 +25,5 @@ export function getShortProductName(name: string): string {
 		return 'Стакан для зубных щёток'
 	if (name.toLocaleLowerCase().includes('чаша'))
 		return 'Декоративная чаша \"Ладья\"'
-	if (name.toLocaleLowerCase().includes('кашпо'))
-		return 'Кашпо'
 	return name
 }
