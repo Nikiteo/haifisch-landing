@@ -19,7 +19,6 @@ export const Categories = memo(() => {
 				<li
 					key={id}
 					className={styles.category}
-					onClick={() => handleClick(id)}
 				>
 					<button
 						type="button"

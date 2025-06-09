@@ -3,7 +3,7 @@ export function getShortProductName(name: string): string {
 		if (name.toLocaleLowerCase().includes('со сливом'))
 			return 'Мыльница со сливом'
 		if (name.toLocaleLowerCase().includes('листок'))
-			return 'Мыльница \"Листок\"'
+			return 'Мыльница "Листок"'
 		return 'Мыльница'
 	}
 	if (name.toLocaleLowerCase().includes('поднос'))

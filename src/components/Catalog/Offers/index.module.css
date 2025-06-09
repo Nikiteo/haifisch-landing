@@ -27,8 +27,6 @@
 	@media (width >=960px) {
 		row-gap: 3.625rem;
 	}
-
-	@media (width >=1200px) {}
 }
 
 .offer {
