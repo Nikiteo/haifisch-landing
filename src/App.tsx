@@ -2,7 +2,7 @@ import { lazy, Suspense } from 'react'
 
 import { Route, Routes } from 'react-router-dom'
 
-import { FullPageLoader } from '@/components'
+import { FullPageLoader, Header } from '@/components'
 import Main from '@/pages/MainPage/Main'
 import './styles/global.css'
 import '@fontsource/inter/300.css'
@@ -33,7 +33,15 @@ export function App() {
 						</>
 					)}
 				/>
-				<Route path="/catalog" element={<Catalog />} />
+				<Route
+					path="/catalog"
+					element={(
+						<>
+							<Header />
+							<Catalog withMargin />
+						</>
+					)}
+				/>
 			</Routes>
 		</Suspense>
 	)

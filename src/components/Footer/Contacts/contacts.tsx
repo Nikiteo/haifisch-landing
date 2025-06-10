@@ -6,7 +6,7 @@ function getShortText(text: string): string {
 	if (text.includes('Москва'))
 		return `Адрес: ${text}`
 	if (text.includes('+7'))
-		return `Телефон: ${text}`
+		return `Телефон: (${text})`
 	if (text.includes('@'))
 		return `Почта: ${text}`
 	return text
@@ -21,7 +21,7 @@ export function Contacts() {
 	}))
 
 	return (
-		<div className={styles.links}>
+		<address className={styles.links}>
 			{CONTACT_LINKS.map(link => (
 				<a
 					key={link.href}
@@ -33,6 +33,6 @@ export function Contacts() {
 					{link.text}
 				</a>
 			))}
-		</div>
+		</address>
 	)
 }

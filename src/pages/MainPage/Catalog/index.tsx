@@ -3,10 +3,14 @@ import { catalog } from '@/assets'
 import { Categories, Container, Offers } from '@/components'
 import styles from './index.module.css'
 
-function Catalog() {
+interface ICatalog {
+	withMargin?: boolean
+}
+
+function Catalog({ withMargin = false }: ICatalog) {
 	return (
 		<Container id="catalog" isAnimated={false}>
-			<div className={styles.wrapper}>
+			<div className={`${styles.wrapper} ${!withMargin ? styles.noMargin : ''}`}>
 				<div className={styles.box} />
 				<div className={styles.container}>
 					<h2 className={styles.title}>{t('button.catalog')}</h2>

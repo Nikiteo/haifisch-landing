@@ -6,7 +6,7 @@ export const CONTACT_LINKS = [
 		href: 'https://yandex.ru/maps/-/CHvwMO~c',
 	},
 	{
-		text: '+7 985 162 73 94',
+		text: '+7 (985) 162 73 94',
 		href: 'tel:+79851627394',
 	},
 	{
