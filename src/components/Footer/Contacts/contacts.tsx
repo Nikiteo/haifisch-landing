@@ -6,7 +6,7 @@ function getShortText(text: string): string {
 	if (text.includes('Москва'))
 		return `Адрес: ${text}`
 	if (text.includes('+7'))
-		return `Телефон: (${text})`
+		return `Телефон: ${text}`
 	if (text.includes('@'))
 		return `Почта: ${text}`
 	return text
