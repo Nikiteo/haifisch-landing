@@ -9,8 +9,8 @@
 			"title": "Блюда декоративные"
 		},
 		{
-			"id": "4992497",
-			"title": "Вазы"
+			"id": "61853873",
+			"title": "Вазы для цветов"
 		},
 		{
 			"id": "70318271",
@@ -1208,6 +1208,15 @@
 			"available": "true"
 		},
 		{
+			"name": "Ваза для цветов Haifisch рифленая из искусственного камня, серый мрамор",
+			"shortName": "Ваза для цветов Haifisch рифленая из искусственного камня, серый мрамор",
+			"categoryId": 61853873,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16728488/2a000001983c71fdcda992e87b3e6f4763b0/9",
+			"price": 1872,
+			"url": "https://market.yandex.ru/store--haifisch/product/1296268006?businessId=6328344&uniqueId=6328344&sku=4542413319",
+			"available": "true"
+		},
+		{
 			"name": "Поднос \"Срез дерева\" из искусственного камня Haifisch, белый мрамор",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
@@ -1394,6 +1403,15 @@
 			"picture": "https://avatars.mds.yandex.net/get-mpic/13448948/2a0000019384ff456c5f5712adff50c3e9f5/9",
 			"price": 1775,
 			"url": "https://market.yandex.ru/store--haifisch/product/1204255006?businessId=6328344&uniqueId=6328344&sku=4462495060",
+			"available": "true"
+		},
+		{
+			"name": "Ваза для цветов Haifisch рифленая из искусственного камня, белый мрамор",
+			"shortName": "Ваза для цветов Haifisch рифленая из искусственного камня, белый мрамор",
+			"categoryId": 61853873,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15049969/2a000001983c7fddc9b89c5a4c41bb0b19a5/9",
+			"price": 1872,
+			"url": "https://market.yandex.ru/store--haifisch/product/1296268006?businessId=6328344&uniqueId=6328344&sku=4542508992",
 			"available": "true"
 		},
 		{
