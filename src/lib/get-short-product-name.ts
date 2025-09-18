@@ -25,7 +25,9 @@ export function getShortProductName(name: string): string {
 		return 'Стакан для зубных щёток'
 	if (name.toLocaleLowerCase().includes('чаша'))
 		return 'Декоративная чаша "Ладья"'
-	if (name.toLocaleLowerCase().includes('Подставка для украшений'))
+	if (name.toLocaleLowerCase().includes('подставка для украшений'))
 		return 'Подставка для украшений'
+	if (name.toLocaleLowerCase().includes('ваза для цветов'))
+		return 'Ваза для цветов'
 	return name
 }
