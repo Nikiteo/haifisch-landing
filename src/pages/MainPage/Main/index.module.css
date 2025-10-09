@@ -86,6 +86,18 @@
 	}
 }
 
+.buttons {
+	display: flex;
+
+	@media (width >=640px) {
+		gap: 20px;
+		flex-direction: column;
+	}
+	@media (width >=1024px) {
+		flex-direction: row;
+	}
+}
+
 .button {
 	align-self: flex-start;
 	margin: 0 var(--space-xs) 3.5rem var(--space-xs);
@@ -97,4 +109,8 @@
 	@media (width >=640px) {
 		margin: 0;
 	}
+}
+
+.pdfButton {
+	align-self: flex-start;
 }

@@ -22,6 +22,22 @@ function Main() {
 			<Button variant="primary" className={styles.button} onClick={handleCatalogClick}>
 				{t('button.catalog')}
 			</Button>
+			{/* <div className={styles.buttons}>
+				<Button variant="primary" className={styles.button} onClick={handleCatalogClick}>
+					{t('button.catalog')}
+				</Button>
+				<Button
+					href="https://t.me/haifisch_store_bot"
+					target="_blank"
+					rel="noopener noreferrer"
+					variant="outline"
+					className={styles.pdfButton}
+					as="a"
+				>
+					{t('button.pdf')}
+				</Button>
+			</div> */}
+
 		</>
 	)
 

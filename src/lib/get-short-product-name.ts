@@ -29,5 +29,7 @@ export function getShortProductName(name: string): string {
 		return 'Подставка для украшений'
 	if (name.toLocaleLowerCase().includes('ваза для цветов'))
 		return 'Ваза для цветов'
+	if (name.toLocaleLowerCase().includes('Стол журнальный'))
+		return 'Стол'
 	return name
 }
