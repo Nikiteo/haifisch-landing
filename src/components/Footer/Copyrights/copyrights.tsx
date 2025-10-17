@@ -4,10 +4,15 @@ import { Logo } from '@/components'
 import styles from './copyrights.module.css'
 
 export function Copyrights() {
+	const year = new Date().getFullYear()
 	return (
 		<div className={styles.copyrights}>
 			<Logo src={logoDark} alt={t('logo.alt')} className={styles.copyLogo} />
-			<p>{t('copyright.text')}</p>
+			<p>
+				{t('copyright.text', {
+					year,
+				})}
+			</p>
 		</div>
 	)
 }

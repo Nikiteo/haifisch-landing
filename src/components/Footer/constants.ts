@@ -1,4 +1,4 @@
-import { call as CallIcon, mail as MailIcon, tg as TelegramIcon, vk as VkIcon } from '@/assets'
+import { call as CallIcon, mail as MailIcon, pint as PintIcon, tg as TelegramIcon, vk as VkIcon } from '@/assets'
 
 export const CONTACT_LINKS = [
 	{
@@ -35,5 +35,10 @@ export const CONTACT_ICONS = [
 		icon: CallIcon,
 		href: 'tel:+79851627394',
 		labelkey: 'aria.call-icon',
+	},
+	{
+		icon: PintIcon,
+		href: 'https://ru.pinterest.com/haifisch_stone/',
+		labelkey: 'aria.pint-icon',
 	},
 ]
