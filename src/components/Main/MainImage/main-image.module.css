@@ -18,7 +18,7 @@
 .heroImage {
 	width: 100%;
 	object-fit: cover;
-	object-position: center;
+	object-position: bottom left;
 	height: min(clamp(230px, 72vw, 346px), 100%);
 
 	@media (width >=640px) {
