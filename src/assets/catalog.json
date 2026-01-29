@@ -63,57 +63,30 @@
 	],
 	"offers": [
 		{
-			"name": "Менажница из искусственного камня Haifisch 30см, серый мрамор",
-			"shortName": "Менажница",
-			"categoryId": 62211292,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/2014136/2a000001925216668214ebec6f7c4947ea61/9",
-			"price": 7129,
-			"url": "https://market.yandex.ru/card/menazhnitsa-iz-lityevogo-mramora-haifisch-30sm-seryy-mramor/103554529187?businessId=6328344&clid=6328344&model_id=681524287&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Стол журнальный из декоративного мрамора Haifisch с деревянным подстольем, белый",
-			"shortName": "Стол",
-			"categoryId": 60848228,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15038321/2a000001995c1d1dab239dd3d8b79fb69d0b/9",
-			"price": 14990,
-			"url": "https://market.yandex.ru/card/stol-zhurnalnyy-iz-dekorativnogo-mramora-haifisch-s-derevyannym-podstolyem-belyy/4669046034?businessId=6328344&clid=6328344&model_id=4669046033&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch \"Листок\", серый мрамор",
-			"shortName": "Мыльница \"Листок\"",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4936002/2a00000190e5e2077906f5b11647a294b070/9",
-			"price": 4030,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok/103253340546?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch \"Листок\", черный мрамор",
-			"shortName": "Мыльница \"Листок\"",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5234357/2a00000191c21b5fd2b8f64985e5e7dc2c4d/9",
-			"price": 2623,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok-chernyy-mramor/103498101968?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос Haifisch из искусственного камня 16 см, коричневый мрамор",
+			"name": "Круглый поднос Haifisch из искусственного камня 16 см, серый мрамор",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000018ef543510e682a598e79ab9a4bb4/9",
-			"price": 1350,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-haifisch-iz-lityevogo-mramora-16-sm-korichnevyy-mramor/102701592514?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12217350/2a0000018ef5435219fe942a8d0ba65f031e/9",
+			"price": 2032,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-haifisch-iz-lityevogo-mramora-16-sm-seryy-mramor/102438375418?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, классический мрамор",
+			"name": "Декоративный поднос Haifisch из искусственного камня 16х11 см, черный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5220415/2a0000019213cc0cedbe98435433fa62c313/9",
+			"price": 4642,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-chernyy-mramor/102842161001?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, коричневый мрамор",
 			"shortName": "Держатель для бумажных полотенец",
 			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11462999/2a0000018bb99b222aadfd7b71f3b4be4784/9",
-			"price": 2182,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-klassicheskiy-mramor/102028985230?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5235429/2a00000196198e138353fc8e7ba794a035f8/9",
+			"price": 2454,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-korichnevyy-mramor/102050244999?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
@@ -126,471 +99,39 @@
 			"available": "true"
 		},
 		{
-			"name": "Декоративный поднос Haifisch из искусственного камня, диаметр 30 см, серый",
+			"name": "Поднос \"Срез дерева\" из искусственного камня Haifisch, черный мрамор",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16164715/k_plus_8sk5e7AoDx5fxpQdhl4a/9",
-			"price": 6461,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-diametr-30-sm-seryy/102842144391?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/14273250/2a000001971b452536567db9ce0e88af6970/9",
+			"price": 4590,
+			"url": "https://market.yandex.ru/card/podnos-srez-dereva-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/4403629112?businessId=6328344&clid=6328344&model_id=1418912591&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Поднос из искусственного камня Haifisch круглый 18x18 см, бежевый",
+			"name": "Поднос Haifisch искусственный камень 24х16 см, волнистый, серый",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12281819/2a0000019213cc0ea4d4018cf1a1c24d2c46/9",
-			"price": 1670,
-			"url": "https://market.yandex.ru/card/podnos-iz-iskusstvennogo-kamnya-haifisch-18-sm-bezhevyy/103531242023?businessId=6328344&clid=6328344&model_id=1205148054&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16482228/k_plus_qwoo6x1Xum3dSiSUYmGk/9",
+			"price": 3566,
+			"url": "https://market.yandex.ru/card/podnos-haifisch-iskusstvennyy-kamen-24kh16-sm-seryy/103531255100?businessId=6328344&clid=6328344&model_id=1201445659&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25см, бежевый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/17717916/k_plus_azIxKuyBBFgHMsBydMrz/9",
-			"price": 9740,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-bezhevyy-mramor/103554531209?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница овальная из искусственного камня Haifisch, коричневый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4977172/2a00000190e5b8ef4f608521d450543f1a71/9",
-			"price": 3450,
-			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/103253194090?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, коричневый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11401175/2a0000019213d39f0bd01ab88dd624858251/9",
-			"price": 1948,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-lityevogo-mramora-haifisch/102605395293?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Ваза для цветов Haifisch рифленая из искусственного камня, белый мрамор",
-			"shortName": "Ваза для цветов",
-			"categoryId": 61853873,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15049969/2a000001983c7fddc9b89c5a4c41bb0b19a5/9",
-			"price": 6268,
-			"url": "https://market.yandex.ru/card/vaza-dlya-tsvetov-haifisch-riflenaya-iz-iskusstvennogo-kamnya/4542508992?businessId=6328344&clid=6328344&model_id=1296268006&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5332113/2a0000019307066090199552530792ba5394/9",
-			"price": 8582,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-belyy/103617835885?businessId=6328344&clid=6328344&model_id=1199798119&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня, черный мрамор, 3x12x8.8",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/7690783/2a0000019213c5ae17c03136870de68e3b66/9",
-			"price": 3190,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-chernyy-mramor/103191222762?businessId=6328344&clid=6328344&model_id=1885023193&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос Haifisch искусственный камень 24х16 см, волнистый, черный",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5322414/2a000001922da24e922dcf1ab2ab1a19db77/9",
-			"price": 4766,
-			"url": "https://market.yandex.ru/card/podnos-haifisch-iskusstvennyy-kamen-24kh16-sm-chernyy/103538474544?businessId=6328344&clid=6328344&model_id=1201445659&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из литьевого мрамора 16х11 см, бежевый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12152435/2a0000019213c5979233f7ac0f1aff83c82c/9",
-			"price": 5142,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-bezhevyy-mramor/103531236422?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, бело-коричневый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11919271/2a00000191c2820c88aad5046db526c88966/9",
-			"price": 1743,
-			"url": "https://market.yandex.ru/card/podnos-dekorativnyy-iz-iskusstvennogo-kamnya-17-sm/103253205894?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черный",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11532558/2a0000018bb98cc23fce016d0f7aef4c631b/9",
-			"price": 3132,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-chernyy/102487733129?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подсвечник из искусственного камня Haifisch, черный мрамор, 2x9x5.5",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5324096/2a0000018ef569e4ed1715d5b70a8cb19cad/9",
-			"price": 1725,
-			"url": "https://market.yandex.ru/card/podsvechnik-iz-lityevogo-mramora-haifisch-chernyy-mramor/102071353237?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка из искусственного камня для телефона Haifisch, серый мрамор",
-			"shortName": "Подставка для телефона",
-			"categoryId": 70318271,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/6453326/2a0000019264837e020f6bdf37b94e5a68fa/9",
-			"price": 935,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch/103558267201?businessId=6328344&clid=6328344&model_id=718894312&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка из литьевого мрамора для телефона Haifisch 10 см, серый мрамор",
-			"shortName": "Подставка для телефона",
-			"categoryId": 70318271,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5312584/2a00000192647202266a78e3fc942bbc5e68/9",
-			"price": 1145,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch-10-sm/103558271938?businessId=6328344&clid=6328344&model_id=718874118&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративная чаша \"Ладья\" Haifisch овальная 30 см, бело-коричневый мрамор",
-			"shortName": "Декоративная чаша \"Ладья\"",
-			"categoryId": 61668507,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16490989/k_plus_b2atMLmkgU1FpJ4QZ3c5/9",
-			"price": 2388,
-			"url": "https://market.yandex.ru/card/dekorativnaya-chasha-ladya-haifisch-ovalnaya-30-sm-belo-korichnevyy-mramor/103640990430?businessId=6328344&clid=6328344&model_id=4964955405&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Стакан Haifisch для зубных щёток, искусственный камень, бордовый, 11x8 см",
-			"shortName": "Стакан для зубных щёток",
-			"categoryId": 63077468,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5236741/2a00000191c229f8c47ca70093336fe60b4e/9",
-			"price": 1978,
-			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-iskusstvennogo-kamnya-haifisch-bordovyy-mramor/103498127822?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос - чаша \"Капля\" из искусственного камня Haifisch, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4934335/2a0000019384ff4573416ccd403cdc963310/9",
-			"price": 1775,
-			"url": "https://market.yandex.ru/card/podnos---chasha-kaplya-iz-iskusstvennogo-kamnya-haifisch-chernyy/103662262005?businessId=6328344&clid=6328344&model_id=1204255006&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка из искусственного камня для телефона Haifisch, бежевый мрамор",
-			"shortName": "Подставка для телефона",
-			"categoryId": 70318271,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5274753/2a0000019264837e0847e87cf221579af7f2/9",
-			"price": 935,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch/103558267200?businessId=6328344&clid=6328344&model_id=718894312&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12219175/2a0000019213d39f0a146ed916711b58c63d/9",
-			"price": 1816,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-lityevogo-mramora-haifisch/102605273428?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Интерьерный поднос/подставка из искусственного камня Haifisch, коричневый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4728959/k_plus_ObcQbmg56y75JKi8b9JK/9",
-			"price": 4290,
-			"url": "https://market.yandex.ru/card/interyernyy-podnospodstavka-iz-lityevogo-mramora-haifisch-korichnevyy-mramor/102701628363?businessId=6328344&clid=6328344&model_id=1885021996&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Интерьерный поднос/подставка из искусственного камня Haifisch, серый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16166361/k_plus_pLKumeBVnLDRa77UDX0f/9",
-			"price": 3990,
-			"url": "https://market.yandex.ru/card/interyernyy-podnospodstavka-iz-lityevogo-mramora-haifisch-seryy-mramor/102071355828?businessId=6328344&clid=6328344&model_id=1345272637&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос - чаша \"Капля\" из искусственного камня Haifisch, бело-коричневый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16464876/2a000001988940a8cfc81cbc9b557344d05d/9",
-			"price": 2475,
-			"url": "https://market.yandex.ru/card/podnos---chasha-kaplya-iz-iskusstvennogo-kamnya-haifisch-belo-korichnevyy/4579141580?businessId=6328344&clid=6328344&model_id=1204255006&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Интерьерный поднос/подставка из искусственного камня Haifisch, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12016886/k_plus_Gm4cd4dfPelKTPDFLVnI/9",
-			"price": 3440,
-			"url": "https://market.yandex.ru/card/interyernyy-podnospodstavka-iz-lityevogo-mramora-haifisch-chernyy-mramor/102351707085?businessId=6328344&clid=6328344&model_id=1345272637&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Менажница из искусственного камня Haifisch 30 см, черный мрамор",
-			"shortName": "Менажница",
-			"categoryId": 62211292,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16412103/k_plus_E5G0qfUxf5ShxOvmbgk2/9",
-			"price": 6914,
-			"url": "https://market.yandex.ru/card/menazhnitsa-iz-lityevogo-mramora-haifisch-30-sm-chernyy-mramor/103450166706?businessId=6328344&clid=6328344&model_id=1866226160&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из литьевого мрамора 16х11 см, серый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4544730/2a00000191c2025cbda8db28e71e2986bce5/9",
-			"price": 4810,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-seryy-mramor/103498079053?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подсвечник Haifisch из искусственного камня, бело-коричневый",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5319505/2a0000019213cb199bc3f4723232e1e53f55/9",
-			"price": 734,
-			"url": "https://market.yandex.ru/card/podsvechnik-haifisch-iz-iskusstvennogo-kamnya-belo-korichnevyy/103531242121?businessId=6328344&clid=6328344&model_id=1202578882&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch \"Листок\", бело-коричневый мрамор",
-			"shortName": "Мыльница \"Листок\"",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/7543961/2a00000191c21b5ea2b81a050fd2a478d470/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok-belo-korichnevyy-mramor/103498101967?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из искусственного камня 16х11 см, зелёный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5238586/2a0000019213cbeebf29da67d8321cb6e4fb/9",
-			"price": 5642,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-zelenyy-mramor/102842161002?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос круглый с волнистыми краями Haifisch 25см, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12418417/2a00000195a94ed8e7f29464c51d63c7cd5a/9",
-			"price": 7582,
-			"url": "https://market.yandex.ru/card/podnos-kruglyy-s-volnistymi-krayami-haifisch-25sm-chernyy-mramor/103823109324?businessId=6328344&clid=6328344&model_id=1203220043&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch овальная, черный мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5306939/2a000001922d8dd65ab458995f1eee82c8d2/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-chernyy-mramor/103538411046?businessId=6328344&clid=6328344&model_id=685268677&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос Haifisch искусственный камень 24х16 см, волнистый, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11417897/2a000001922da24e8f04edaef9cb8568bf12/9",
-			"price": 2526,
-			"url": "https://market.yandex.ru/card/podnos-haifisch-iskusstvennyy-kamen-24kh16-sm-belyy/103538474545?businessId=6328344&clid=6328344&model_id=1201445659&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подсвечник из искусственного камня Haifisch, бежевый мрамор, 2x9x5.5",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/3986638/2a00000192521654409ad7c17f16ba4624d3/9",
-			"price": 839,
-			"url": "https://market.yandex.ru/card/podsvechnik-iz-lityevogo-mramora-haifisch-bezhevyy-mramor/103554529156?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черно-бежевый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11532558/2a0000018bb98ccc4e7f36f094fd2665657e/9",
-			"price": 2132,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-cherno-bezhevyy-mramor/102487733128?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11255353/2a0000018dad73aa8a6316db1480190f6049/9",
-			"price": 9340,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-chernyy-mramor/102763027285?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25см, бело-коричневый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/14832725/k_plus_6EjLoBSFsZc8DxRklmCT/9",
-			"price": 9740,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-belo-korichnevyy-mramor/103554531208?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Стакан Haifisch для зубных щёток, искусственный камень, серый, 11x8 см",
-			"shortName": "Стакан для зубных щёток",
-			"categoryId": 63077468,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11442293/2a000001956fdb4e6bae2e3bd44feb51237f/9",
-			"price": 1978,
-			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-seryy-mramor/102438371370?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, коричневый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/14411065/k_plus_K3fnFKLNEjJLFgmwAbhS/9",
-			"price": 9240,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-korichnevyy-mramor/102842137243?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня, зеленая, для кускового мыла",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/6212300/2a00000190e5b8ee93c304d3dc59e881ce69/9",
-			"price": 3355,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch/103272015524?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня со сливом Haifisch, черный мрамор",
+			"name": "Мыльница из искусственного камня со сливом Haifisch, белый мрамор",
 			"shortName": "Мыльница со сливом",
 			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12491287/2a00000197f2a1288d622f5332b935b81824/9",
-			"price": 3530,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch/103253192495?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15034155/2a00000197f2a1288c3e88baa849429d2908/9",
+			"price": 3630,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch/103253192494?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, бело-коричневый",
+			"name": "Круглый поднос Haifisch из искусственного камня 16 см, белый мрамор",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/6256254/2a000001930ace59e7c45cad774dd876eccb/9",
-			"price": 8182,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-belo-korichnevyy/103618694797?businessId=6328344&clid=6328344&model_id=1199798119&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, коричневый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4303516/2a00000190e5b5342e15a48d8f7839045da2/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch/103253197241?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос Haifisch из искусственного камня 16 см, чёрный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12626365/2a0000018ef543510b20e5242fcea9b7ede7/9",
-			"price": 4290,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-haifisch-iz-lityevogo-mramora-16-sm-chernyy-mramor/102438375419?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, бордовый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4399094/2a00000191c21c3104df87b892419392d1b5/9",
-			"price": 2440,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-iskusstvennogo-kamnya-haifisch-17-sm-bordovyy/103498104840?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка из литьевого мрамора для телефона Haifisch, черный мрамор",
-			"shortName": "Подставка для телефона",
-			"categoryId": 70318271,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/1521939/2a0000019264837e07a84361e9b192f02bba/9",
-			"price": 1029,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch/103558267202?businessId=6328344&clid=6328344&model_id=718894312&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос Haifisch искусственный камень 24х16 см, волнистый, бежевый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5220415/2a0000019213d199d0946b3ae191a375e877/9",
-			"price": 2989,
-			"url": "https://market.yandex.ru/card/podnos-haifisch-iskusstvennyy-kamen-24kh16-sm-bezhevyy/103531255099?businessId=6328344&clid=6328344&model_id=1201445659&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец Haifisch из искусственного камня, черно-зеленый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12807189/2a000001961a0a2f159712a5100c0096a13b/9",
-			"price": 4956,
-			"url": "https://market.yandex.ru/card/nastolnyy-derzhatel-dlya-bumazhnykh-polotenets-cherno-izumrudnyy-mramor/4311809569?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из литьевого мрамора 16х11 см, белый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5151028/2a0000019213cc0ce983ddd461ccdf1bbb7b/9",
-			"price": 4810,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-belyy-mramor/102842128673?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня для кускового мыла, зеленый мрамор, 3x12x8.8",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/7724829/2a00000197f2aebda35eac6b6ec677cb2abd/9",
-			"price": 3250,
-			"url": "https://market.yandex.ru/card/mylnitsa-haifisch-iz-iskusstvennogo-kamnya-zelenyy-mramor/103498133842?businessId=6328344&clid=6328344&model_id=273432499&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка для украшений из искусственного камня Haifisch, бело-коричневый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 65552378,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15426853/2a000001989a024817e160237e73e05680cd/9",
-			"price": 3150,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-ukrasheniy-iz-iskusstvennogo-kamnya-haifisch-belo-korichnevyy/4582868963?businessId=6328344&clid=6328344&model_id=1336029927&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос/подставка Haifisch из искусственного камня, 22х16 см, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/17846399/k_plus_yt07VnKN9TKFRYhTeFw3/9",
-			"price": 7982,
-			"url": "https://market.yandex.ru/card/podnospodstavka-haifisch-iz-lityevogo-mramora-22kh16-sm-chernyy-mramor/102746669513?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Менажница из искусственного камня Haifisch 30см, классический мрамор",
-			"shortName": "Менажница",
-			"categoryId": 62211292,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5221865/2a000001956ffe8c8eee06d3aa2a2970d3eb/9",
-			"price": 7179,
-			"url": "https://market.yandex.ru/card/menazhnitsa-iz-lityevogo-mramora-haifisch-30sm-klassicheskiy-mramor/102235562941?businessId=6328344&clid=6328344&model_id=1866226160&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12222123/2a0000018ef543510c8ac9fda31a18227ea6/9",
+			"price": 3743,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-haifisch-iz-lityevogo-mramora-16-sm-belyy-mramor/102438375420?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
@@ -603,336 +144,48 @@
 			"available": "true"
 		},
 		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, черный",
+			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, черный мрамор",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16466315/k_plus_aqBOSkeek3ToNsjViLCN/9",
-			"price": 5982,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-chernyy/103617835884?businessId=6328344&clid=6328344&model_id=1199798119&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11255353/2a0000018dad73aa8a6316db1480190f6049/9",
+			"price": 9340,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-chernyy-mramor/102763027285?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Держатель для бумажных полотенец Haifisch из искусственного камня, зеленый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4255269/2a000001975440c35b0acdb28dd760753bf1/9",
-			"price": 1760,
-			"url": "https://market.yandex.ru/card/nastolnyy-derzhatel-dlya-bumazhnykh-polotenets-izumrudnyy-mramor/4311810607?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"name": "Подставка из искусственного камня для телефона Haifisch, белый мрамор",
+			"shortName": "Подставка для телефона",
+			"categoryId": 70318271,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12369201/2a0000019264837e06799fddb8f3f92bcd7f/9",
+			"price": 935,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch/103558267204?businessId=6328344&clid=6328344&model_id=718894312&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Мыльница из искусственного камня со сливом Haifisch, бордовый мрамор",
-			"shortName": "Мыльница со сливом",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11417897/2a00000191c21b5ea0a9c5f4e4ba17bef37d/9",
-			"price": 3530,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch-bordovyy-mramor/103498094446?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
+			"name": "Менажница из искусственного камня Haifisch 30 см, черный мрамор",
+			"shortName": "Менажница",
+			"categoryId": 62211292,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16412103/k_plus_E5G0qfUxf5ShxOvmbgk2/9",
+			"price": 6914,
+			"url": "https://market.yandex.ru/card/menazhnitsa-iz-lityevogo-mramora-haifisch-30-sm-chernyy-mramor/103450166706?businessId=6328344&clid=6328344&model_id=1866226160&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Декоративная чаша \"Ладья\" Haifisch овальная 30 см, белый мрамор",
-			"shortName": "Декоративная чаша \"Ладья\"",
-			"categoryId": 61668507,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/18198438/k_plus_Jp9JGFkj9XDt6Fhx9zx3/9",
-			"price": 2621,
-			"url": "https://market.yandex.ru/card/dekorativnaya-chasha-ladya-haifisch-ovalnaya-30-sm-belyy-mramor/103640990429?businessId=6328344&clid=6328344&model_id=4964955405&distr_type=8&pp=605",
+			"name": "Подставка из искусственного камня для телефона Haifisch, бежевый мрамор",
+			"shortName": "Подставка для телефона",
+			"categoryId": 70318271,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5274753/2a0000019264837e0847e87cf221579af7f2/9",
+			"price": 935,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch/103558267200?businessId=6328344&clid=6328344&model_id=718894312&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Мыльница из искусственного камня Haifisch овальная, черный мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4119563/2a00000191c21d438e34eaabb21221c98094/9",
-			"price": 1040,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-chernyy-mramor/103498101323?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос - чаша \"Капля\" из искусственного камня Haifisch, черный",
+			"name": "Декоративный поднос Haifisch из искусственного камня, диаметр 30 см, черный",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/13448948/2a0000019384ff456c5f5712adff50c3e9f5/9",
-			"price": 1775,
-			"url": "https://market.yandex.ru/card/podnos---chasha-kaplya-iz-iskusstvennogo-kamnya-haifisch-chernyy/103662262006?businessId=6328344&clid=6328344&model_id=1204255006&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница прямоугольная без слива Haifisch из декоративного мрамора",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/17854139/2a000001995c1bcc4b2461a9dc941732d53e/9",
-			"price": 1500,
-			"url": "https://market.yandex.ru/card/mylnitsa-pryamougolnaya-bez-sliva-haifisch-iz-dekorativnogo-mramora/4669050725?businessId=6328344&clid=6328344&model_id=4669050724&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, серый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16508997/k_plus_wD9lZ333SRF81tVKimPH/9",
-			"price": 9140,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-seryy-mramor/102763027284?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch овальная, бордовый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/1603927/2a00000191c21d198fce23b2091cbbd815b8/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-bordovyy-mramor/103498101322?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос овальный из искусственного камня Haifisch 30см, белый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/14579750/2a00000197103bc466f0471784273c20460b/9",
-			"price": 4988,
-			"url": "https://market.yandex.ru/card/podnos-ovalnyy-iz-iskusstvennogo-kamnya-haifisch-30sm/4398877287?businessId=6328344&clid=6328344&model_id=1260579434&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Набор подсвечник на овальной подставке из искусственного камня Haifisch, черный мрамор",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12256862/2a0000018f063cb79b75f1262ef95550a7fc/9",
-			"price": 1518,
-			"url": "https://market.yandex.ru/card/nabor-podsvechnik-na-podstavke-iz-lityevogo-mramora-haifisch-chernyy-mramor/102071353236?businessId=6328344&clid=6328344&model_id=1226327301&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец, черный, бело-коричневый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16447976/2a00000197544e9ea0a24823616588002928/9",
-			"price": 4882,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-chernyy-belo-korichnevyy-mramor/4311741738?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос круглый с волнистыми краями Haifisch 25см, белый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/13714821/2a00000194730e1e64c881311ec26469e263/9",
-			"price": 5482,
-			"url": "https://market.yandex.ru/card/podnos-kruglyy-s-volnistymi-krayami-haifisch-25sm-belyy-mramor/103729881768?businessId=6328344&clid=6328344&model_id=1203220043&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подсвечник из искусственного камня Haifisch, серый мрамор, 2x9x5.5",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12390472/2a0000018ef569e652705ccacee06d9c20a7/9",
-			"price": 839,
-			"url": "https://market.yandex.ru/card/podsvechnik-iz-lityevogo-mramora-haifisch-seryy-mramor/102970694789?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из искусственного мрамора 22х16 см, зеленый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15284069/2a00000198891f8d6c57f6967d223e451fe6/9",
-			"price": 5585,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-22kh16-sm-zelenyy-mramor/4578987892?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, бежевый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11375416/2a0000018bb99b137b3eac21a2477e5c28e8/9",
-			"price": 3370,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-bezhevyy-mramor/102351732947?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка для украшений из искусственного камня Haifisch, черный",
-			"shortName": "Декоративный поднос",
-			"categoryId": 65552378,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16484647/2a000001989984c252f7c6b3bf014d95c9cd/9",
-			"price": 3450,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-ukrasheniy-iz-iskusstvennogo-kamnya-haifisch-chernyy/4582737081?businessId=6328344&clid=6328344&model_id=1336029927&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос/подставка Haifisch из искусственного камня, 22х16 см, белый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16444505/k_plus_0YEvsKKsPh6Nedq6ylKO/9",
-			"price": 4825,
-			"url": "https://market.yandex.ru/card/podnospodstavka-haifisch-iz-lityevogo-mramora-22kh16-sm-belyy-mramor/102738805320?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Стакан Haifisch для зубных щёток, искусственный камень, коричневый, 11x8 см",
-			"shortName": "Стакан для зубных щёток",
-			"categoryId": 63077468,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11375416/2a0000018b6831a36902757d7b403f19a65b/9",
-			"price": 2036,
-			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-korichnevyy-mramor/102050248390?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница овальная из искусственного мрамора Haifisch, бордовый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/13882608/2a00000196cf34810a85ef0a3d021a7bdf84/9",
-			"price": 3662,
-			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/4373832164?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня, белая, для кускового мыла",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15542656/2a000001980eacae8efff0854d0a19b1b4d7/9",
-			"price": 2490,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-klassicheskiy-mramor/102235625853?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch, большая овальная, черная",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5234219/2a0000019252167fcd56d97965608ed6b68a/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-bolshoy-oval/103554518533?businessId=6328344&clid=6328344&model_id=705475794&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец, серый, бело-коричневый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/6065438/2a00000197544e9e9ece8ccc2175e50bdd6d/9",
-			"price": 3556,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-seryy-belo-korichnevyy-mramor/4311741737?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Набор подсвечник на подставке из литьевого мрамора Haifisch, коричневый мрамор",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12306721/2a0000018ef5b10e28647bc8e475766e952b/9",
-			"price": 4100,
-			"url": "https://market.yandex.ru/card/nabor-podsvechnik-na-podstavke-iz-lityevogo-mramora-haifisch-korichnevyy-mramor/102977008918?businessId=6328344&clid=6328344&model_id=108468865&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черно-серый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11450294/2a0000018bb98cd5e39be1cb2730d4df7c4a/9",
-			"price": 4782,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-cherno-seryy-mramor/102487875443?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 25см, белый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12366926/2a0000018d83e32ea1cda732f10e993ce662/9",
-			"price": 9440,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-belyy-mramor/102738824304?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос волнистый из искусственного камня Haifisch, 20 см, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/14331733/2a00000196cf345571346c4d109bf9a6ce9c/9",
-			"price": 1590,
-			"url": "https://market.yandex.ru/card/podnos-volnistyy-iz-iskusstvennogo-kamnya-haifisch-20-sm/4373837616?businessId=6328344&clid=6328344&model_id=1209404495&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос волнистый из искусственного камня Haifisch, 20 см, серый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15256585/2a00000196cf348bdd66bbf8fb07beccc0e9/9",
-			"price": 1590,
-			"url": "https://market.yandex.ru/card/podnos-volnistyy-iz-iskusstvennogo-kamnya-haifisch-20-sm/4373838415?businessId=6328344&clid=6328344&model_id=1209404495&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, серый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/1937077/2a0000019213d39f0ccaaf44f11582fd0570/9",
-			"price": 3270,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-lityevogo-mramora-haifisch/102605395294?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Тройной подсвечник из искусственного камня Haifisch, черный мрамор",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5151433/2a00000190e5b53c68180dd0b46d0612f835/9",
-			"price": 1340,
-			"url": "https://market.yandex.ru/card/troynoy-podsvechnik-iz-iskusstvennogo-kamnya-haifisch/103253198080?businessId=6328344&clid=6328344&model_id=1214159852&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, черный",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11483862/k_plus_QQT1U3hbGPzplKO1o81I/9",
-			"price": 2968,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-lityevogo-mramora-haifisch/102605395292?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос Haifisch из искусственного камня 16 см, серый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12217350/2a0000018ef5435219fe942a8d0ba65f031e/9",
-			"price": 2032,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-haifisch-iz-lityevogo-mramora-16-sm-seryy-mramor/102438375418?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch, изумрудный мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11906264/2a00000195b701f5b7ff94fe4db42dc59f2f/9",
-			"price": 1355,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-izumrudnyy-mramor/103827821971?businessId=6328344&clid=6328344&model_id=308479563&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Ваза для цветов Haifisch рифленая из искусственного камня, серый мрамор",
-			"shortName": "Ваза для цветов",
-			"categoryId": 61853873,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16728488/2a000001983c71fdcda992e87b3e6f4763b0/9",
-			"price": 6268,
-			"url": "https://market.yandex.ru/card/vaza-dlya-tsvetov-haifisch-riflenaya-iz-iskusstvennogo-kamnya/4542413319?businessId=6328344&clid=6328344&model_id=1296268006&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец Haifisch, металлический",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15284069/k_plus_mZHU6x8YhRiORWBwDy0l/9",
-			"price": 1040,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-haifisch-metallicheskiy/102884152324?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос из искусственного камня Haifisch круглый 18x18 см, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5268102/2a000001922d83bda06e20cc3ea8dafa7673/9",
-			"price": 1670,
-			"url": "https://market.yandex.ru/card/podnos-iz-iskusstvennogo-kamnya-haifisch-18-sm-belyy/103538392221?businessId=6328344&clid=6328344&model_id=1205148054&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 18 см, классический мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4120495/2a0000018e1546c75cbde7d2e4a9e1aecada/9",
-			"price": 3743,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-18-sm-klassicheskiy-mramor/102050234652?businessId=6328344&clid=6328344&model_id=1875231813&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4578218/k_plus_T1AmgsWlj0pI2F7sFEhM/9",
+			"price": 7990,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-diametr-30-sm-chernyy/102746681971?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
@@ -954,219 +207,75 @@
 			"available": "true"
 		},
 		{
-			"name": "Менажница из искусственного камня Haifisch 30см, бежевый мрамор",
-			"shortName": "Менажница",
-			"categoryId": 62211292,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4888456/2a000001929cd4c538aa3aaaa00cc3daa8ab/9",
-			"price": 6914,
-			"url": "https://market.yandex.ru/card/menazhnitsa-iz-lityevogo-mramora-haifisch-30sm-bezhevyy-mramor/103578747239?businessId=6328344&clid=6328344&model_id=681524287&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня для кускового мыла, белый мрамор, 3x12x8.8",
+			"name": "Мыльница из искусственного камня Haifisch овальная, черный мрамор",
 			"shortName": "Мыльница",
 			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4249638/2a00000191c21c4257866bc4198fab9d2d0d/9",
-			"price": 3355,
-			"url": "https://market.yandex.ru/card/mylnitsa-haifisch-iz-iskusstvennogo-kamnya-belyy-mramor/103498099328?businessId=6328344&clid=6328344&model_id=273432499&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4119563/2a00000191c21d438e34eaabb21221c98094/9",
+			"price": 1040,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-chernyy-mramor/103498101323?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Поднос овальный из искусственного камня Haifisch, 20 см, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15318406/2a0000019648d3139bcec2c0800f8d14d9c5/9",
-			"price": 1590,
-			"url": "https://market.yandex.ru/card/podnos-ovalnyy-20-sm-znachok-iz-iskusstvennogo-kamnya-haifisch-belyy/4328597829?businessId=6328344&clid=6328344&model_id=1199776186&distr_type=8&pp=605",
+			"name": "Мыльница из искусственного камня Haifisch овальная, бордовый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/1603927/2a00000191c21d198fce23b2091cbbd815b8/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-bordovyy-mramor/103498101322?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Держатель для бумажных полотенец Haifisch из искусственного камня, черно-бордовый мрамор",
+			"name": "Держатель для бумажных полотенец Haifisch из искусственного камня, черно-зеленый мрамор",
 			"shortName": "Держатель для бумажных полотенец",
 			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12260097/2a000001961a0a2f154440d6a549ec38610b/9",
-			"price": 1760,
-			"url": "https://market.yandex.ru/card/nastolnyy-derzhatel-dlya-bumazhnykh-polotenets-cherno-bordovyy-mramor/4311804907?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12807189/2a000001961a0a2f159712a5100c0096a13b/9",
+			"price": 4956,
+			"url": "https://market.yandex.ru/card/nastolnyy-derzhatel-dlya-bumazhnykh-polotenets-cherno-izumrudnyy-mramor/4311809569?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, бело-розовый",
+			"name": "Поднос из искусственного камня Haifisch круглый 18x18 см, белый",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4977172/2a00000190e5bac7f9fd66daf75c18dd346c/9",
-			"price": 1743,
-			"url": "https://market.yandex.ru/card/podnos-dekorativnyy-iz-iskusstvennogo-kamnya-17-sm/103253205892?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5268102/2a000001922d83bda06e20cc3ea8dafa7673/9",
+			"price": 1670,
+			"url": "https://market.yandex.ru/card/podnos-iz-iskusstvennogo-kamnya-haifisch-18-sm-belyy/103538392221?businessId=6328344&clid=6328344&model_id=1205148054&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Подставка из искусственного камня для телефона Haifisch, белый мрамор",
-			"shortName": "Подставка для телефона",
-			"categoryId": 70318271,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12369201/2a0000019264837e06799fddb8f3f92bcd7f/9",
-			"price": 935,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch/103558267204?businessId=6328344&clid=6328344&model_id=718894312&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 18 см, серый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11483501/2a00000195a90764404966dd72013ffa9672/9",
-			"price": 3743,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-18-sm-seryy-mramor/102448552366?businessId=6328344&clid=6328344&model_id=1204496595&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница без слива классическая Haifisch из декоративного мрамора",
+			"name": "Мыльница Haifisch из искусственного камня, бежевая, для кускового мыла",
 			"shortName": "Мыльница",
 			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15049969/2a000001995c1bcc4b22b2d192b5b49a0395/9",
-			"price": 1500,
-			"url": "https://market.yandex.ru/card/mylnitsa-bez-sliva-klassicheskaya-haifisch-iz-dekorativnogo-mramora/4669046978?businessId=6328344&clid=6328344&model_id=4669046977&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Светильник подвесной Coverlet из декоративного мрамора Haifisch, бордовый мрамор",
-			"shortName": "Светильник",
-			"categoryId": 61420224,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/18274777/2a00000199ce56d468aae8a4ff80399ff53a/9",
-			"price": 5490,
-			"url": "https://market.yandex.ru/card/svetilnik-podvesnoy-coverlet-iz-dekorativnogo-mramora-haifisch-bordovyy-mramor/4700238118?businessId=6328344&clid=6328344&model_id=1462703677&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка из литьевого мрамора для телефона Haifisch 10 см, черный мрамор",
-			"shortName": "Подставка для телефона",
-			"categoryId": 70318271,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/7724829/2a000001926472021bbb05a29daf9899e67e/9",
-			"price": 1429,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch-10-sm/103558271940?businessId=6328344&clid=6328344&model_id=718874118&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка для украшений из искусственного камня Haifisch, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 65552378,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16125524/2a0000019899552e004de24dc0d17fdbeb6c/9",
-			"price": 3150,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-ukrasheniy-iz-iskusstvennogo-kamnya-haifisch-belyy/4582673015?businessId=6328344&clid=6328344&model_id=4840167766&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, бежевый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15257343/2a00000197f2b369d445001ebf73459912d1/9",
-			"price": 2940,
-			"url": "https://market.yandex.ru/card/podnos-dekorativnyy-iz-iskusstvennogo-kamnya-17-sm/103253205893?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, бело-коричневый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5231768/2a00000191c2197a3eba658a6b81dd2a7bfd/9",
-			"price": 3250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-belo-korichnevyy-mramor/103498102762?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черный мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5165418/2a0000018bb99b190ada2bc200755b478419/9",
-			"price": 2454,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-chernyy-mramor/102028985229?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из искусственного камня, диаметр 30 см, черный",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4578218/k_plus_T1AmgsWlj0pI2F7sFEhM/9",
-			"price": 7990,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-diametr-30-sm-chernyy/102746681971?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из искусственного камня 22х16 см, серый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16837769/k_plus_EQJsPs5Rtd7DemuGLqJW/9",
-			"price": 5985,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-22kh16-sm-seryy-mramor/102777500975?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Кашпо для цветов из искусственного камня Haifisch, 1.5 л, белый мрамор",
-			"shortName": "Кашпо",
-			"categoryId": 61165230,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15282130/2a000001971b45063247af9466f5fb485060/9",
-			"price": 5368,
-			"url": "https://market.yandex.ru/card/kashpo-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/4403630952?businessId=6328344&clid=6328344&model_id=1177805182&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 18 см, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5131700/2a0000018e154a9d4ffd1074ba0e079fcb69/9",
-			"price": 3360,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-18-sm-chernyy-mramor/102050255648?businessId=6328344&clid=6328344&model_id=1875231813&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, черный мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/1581127/2a000001922d9e952537f80240753f921e5c/9",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5216453/2a00000190e5b8ef5367df748621253e199d/9",
 			"price": 1355,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-chernyy-mramor/103538477776?businessId=6328344&clid=6328344&model_id=685296396&distr_type=8&pp=605",
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch/103272015523?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Стакан Haifisch для зубных щёток, искусственный камень, бело-коричневый, 11x8 см",
-			"shortName": "Стакан для зубных щёток",
-			"categoryId": 63077468,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/7464534/2a00000192521b5580c2a519e2d93b6b962b/9",
-			"price": 2956,
-			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-haifisch-belo-korichnevyy-mramor/103554528662?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня со сливом Haifisch, бежевый мрамор",
-			"shortName": "Мыльница со сливом",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/1081556/2a000001925217c96480c0001cf4f6b4d6ac/9",
-			"price": 3490,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch/103554516710?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос \"Срез дерева\" из искусственного камня Haifisch, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/14273250/2a000001971b452536567db9ce0e88af6970/9",
-			"price": 4590,
-			"url": "https://market.yandex.ru/card/podnos-srez-dereva-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/4403629112?businessId=6328344&clid=6328344&model_id=1418912591&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница овальная из искусственного камня Haifisch, бело-коричневый мрамор",
+			"name": "Мыльница из искусственного камня Haifisch овальная, бежевый мрамор",
 			"shortName": "Мыльница",
 			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5283489/2a00000191c21b79ae9e6c41dfbb8a5c3ab8/9",
-			"price": 3250,
-			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/103498099326?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5241173/2a000001922d8ebbf585ad4cc9d560285fab/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-bezhevyy-mramor/103538412404?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Светильник подвесной Coverlet из декоративного мрамора Haifisch, зеленый мрамор",
-			"shortName": "Светильник",
-			"categoryId": 61420224,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4120567/2a00000199ce274dfbccfe4601b8df25617f/9",
-			"price": 5490,
-			"url": "https://market.yandex.ru/card/svetilnik-podvesnoy-coverlet-iz-dekorativnogo-mramora-haifisch-zelenyy-mramor/4700086453?businessId=6328344&clid=6328344&model_id=1462703677&distr_type=8&pp=605",
+			"name": "Подставка из литьевого мрамора для телефона Haifisch 10 см, серый мрамор",
+			"shortName": "Подставка для телефона",
+			"categoryId": 70318271,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5312584/2a00000192647202266a78e3fc942bbc5e68/9",
+			"price": 1145,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch-10-sm/103558271938?businessId=6328344&clid=6328344&model_id=718874118&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница овальная из искусственного камня Haifisch, бежевый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4880410/2a00000197f2aa4d67cf0610e612fe2f2e28/9",
+			"price": 3662,
+			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/103565236574?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
@@ -1188,372 +297,21 @@
 			"available": "true"
 		},
 		{
-			"name": "Мыльница овальная из искусственного камня Haifisch, бежевый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4880410/2a00000197f2aa4d67cf0610e612fe2f2e28/9",
-			"price": 3662,
-			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/103565236574?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch овальная, бежевый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5241173/2a000001922d8ebbf585ad4cc9d560285fab/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-bezhevyy-mramor/103538412404?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос из искусственного камня Haifisch круглый 18x18 см, серый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5261272/2a0000019213cc0ce9f9136e4592fda45176/9",
-			"price": 1670,
-			"url": "https://market.yandex.ru/card/podnos-iz-iskusstvennogo-kamnya-haifisch-18-sm-seryy/103531242024?businessId=6328344&clid=6328344&model_id=1205148054&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch овальная, серый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/1862933/2a00000191c21d4490698b24260d46f68470/9",
-			"price": 1040,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-seryy-mramor/103498101321?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из искусственного камня 22х16 см, бежевый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5214322/2a0000018e0a6a863a4678e92c85d6b2cfc7/9",
-			"price": 6036,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-22kh16-sm-bezhevyy-mramor/102842146915?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Интерьерный поднос/подставка из искусственного камня Haifisch Белый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/3907807/2a000001921bc18fc0d7aecded9544b79f46/9",
-			"price": 3940,
-			"url": "https://market.yandex.ru/card/interyernyy-podnospodstavka-iz-lityevogo-mramora-haifisch-belyy-mramor/102409277802?businessId=6328344&clid=6328344&model_id=1345272637&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, серый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11167279/2a0000018bbb2b080ef1c2a48f8fa434228f/9",
-			"price": 2745,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-seryy-mramor/102486085531?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, бежевый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5253116/2a000001925216483a9fffdabcc0a1bec1d8/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch/103554529959?businessId=6328344&clid=6328344&model_id=685296396&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из искусственного камня 22х16 см, коричневый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15285180/k_plus_DLEwkO2hTZllWFArLioJ/9",
-			"price": 5999,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-22kh16-sm-korichnevyy-mramor/102777500976?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подсвечник из искусственного камня Haifisch, бело-коричневый мрамор, 2x9x5.5",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16141378/2a000001988982a714c518174baa118616f2/9",
-			"price": 1725,
-			"url": "https://market.yandex.ru/card/podsvechnik-iz-iskusstvennogo-kamnya-haifisch-belo-korichnevyy-mramor-2x9x55/4579285630?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня со сливом Haifisch, серый мрамор",
-			"shortName": "Мыльница со сливом",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15628591/2a00000197f2a1288df9de2b39f097206c66/9",
-			"price": 3530,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch/103253192496?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка из искусственного камня для телефона Haifisch 10 см, белый мрамор",
-			"shortName": "Подставка для телефона",
-			"categoryId": 70318271,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12631971/2a000001926472021bd6a20f19d3d2c93f64/9",
-			"price": 935,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch-10-sm/103558271937?businessId=6328344&clid=6328344&model_id=718874118&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос круглый с волнистыми краями Haifisch 25см, серый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5236248/2a0000019b221d8782ff75a25a6a085da24a/9",
-			"price": 5582,
-			"url": "https://market.yandex.ru/card/podnos-kruglyy-s-volnistymi-krayami-haifisch-25sm-seryy-mramor/4861526080?businessId=6328344&clid=6328344&model_id=950994376&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch, большая овальная, белая",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12263917/2a0000019252167fcfb51eb83cf0775471cc/9",
-			"price": 1355,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-bolshoy-oval-belaya/103554518534?businessId=6328344&clid=6328344&model_id=705475794&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подсвечник из искусственного камня Haifisch, белый мрамор, 2x9x5.5",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12374158/2a0000018ef569e64f5edcf81cba81e26b5d/9",
-			"price": 1725,
-			"url": "https://market.yandex.ru/card/podsvechnik-iz-lityevogo-mramora-haifisch-belyy-mramor/102071353239?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Стакан Haifisch для зубных щёток, искусственный камень, иссиня-чёрный, 11x8 см",
+			"name": "Стакан Haifisch для зубных щёток, искусственный камень, серый, 11x8 см",
 			"shortName": "Стакан для зубных щёток",
 			"categoryId": 63077468,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000019384f9b15d4430f3051589236549/9",
-			"price": 2328,
-			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-haifisch-polnostyu-chernyy/103662261147?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос овальный из искусственного камня Haifisch 30см, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16055235/2a00000197104568e025825860ffbb7eea58/9",
-			"price": 6908,
-			"url": "https://market.yandex.ru/card/podnos-ovalnyy-iz-iskusstvennogo-kamnya-haifisch-30sm-chernyy-mramor/4398897552?businessId=6328344&clid=6328344&model_id=1260579434&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch \"Листок\", бордовый мрамор",
-			"shortName": "Мыльница \"Листок\"",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/3925628/2a00000191c21b5ea04487bc0b5f18b5661b/9",
-			"price": 3430,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok-bordovyy-mramor/103498101969?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня, бежевая, для кускового мыла",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5216453/2a00000190e5b8ef5367df748621253e199d/9",
-			"price": 1355,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch/103272015523?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Кашпо для цветов из искусственного камня Haifisch, 1.5 л, с подносом, белый мрамор",
-			"shortName": "Кашпо",
-			"categoryId": 61165230,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12225658/2a000001971b450a1c9e83ef257319112cad/9",
-			"price": 3468,
-			"url": "https://market.yandex.ru/card/kashpo-iz-iskusstvennogo-kamnya-haifisch-s-podnosom-belyy-mramor/4403637386?businessId=6328344&clid=6328344&model_id=1177806163&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец Haifisch из искусственного камня, бордовый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4615396/2a000001961a0a2f1537ede4f86ce061f0ca/9",
-			"price": 2656,
-			"url": "https://market.yandex.ru/card/nastolnyy-derzhatel-dlya-bumazhnykh-polotenets-bordovyy-mramor/4311804906?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративная чаша \"Ладья\" Haifisch овальная 30 см, черный мрамор",
-			"shortName": "Декоративная чаша \"Ладья\"",
-			"categoryId": 61668507,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16671337/k_plus_lXJ1pTl1LE6W12BFfY3q/9",
-			"price": 2621,
-			"url": "https://market.yandex.ru/card/dekorativnaya-chasha-ladya-haifisch-ovalnaya-30-sm-chernyy-mramor/103640990432?businessId=6328344&clid=6328344&model_id=4964955405&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Тройной подсвечник из искусственного камня Haifisch, бело-розовый мрамор",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5233452/2a00000190e5b53c66e9c93df13cf06f33f3/9",
-			"price": 1340,
-			"url": "https://market.yandex.ru/card/troynoy-podsvechnik-iz-iskusstvennogo-kamnya-haifisch/103253198079?businessId=6328344&clid=6328344&model_id=1214159852&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос-кольцо из искусственного камня Haifisch, 18см, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12621455/2a0000019463fffd4e729edf941962e6b05f/9",
-			"price": 1670,
-			"url": "https://market.yandex.ru/card/podnos-koltso-iz-iskusstvennogo-kamnya-haifisch-18sm-chernyy-mramor/103724810170?businessId=6328344&clid=6328344&model_id=1224617532&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch, большая овальная, бежевая",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/6966796/2a00000192b16231cc23381b36a2d28bfdfe/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-bolshoy-oval-bezhevaya/103585588319?businessId=6328344&clid=6328344&model_id=705475794&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из искусственного камня 22х16 см, бордовый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12371932/k_plus_qK4qYhKHXaMmWYQW1luv/9",
-			"price": 5390,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-iskusstvennogo-kamnya-22kh16-sm-bordovyy-mramor/103498095350?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос Haifisch из искусственного камня 16 см, бордовый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5103899/2a00000193441211a22673186e783d08fe96/9",
-			"price": 3743,
-			"url": "https://market.yandex.ru/card/dekorativnaya-podstavka-haifisch-iz-lityevogo-mramora-16-sm-bordovyy-mramor/103637902448?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня, бело-коричневая, для кускового мыла",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/1767083/2a00000190e5b8ee91486886deb43c0823ba/9",
-			"price": 2990,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-kamnya-haifisch/103270896463?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня, серый мрамор, 3x12x8.8",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/6425823/2a00000195862d76a514e8ec4b815212d4d2/9",
-			"price": 3355,
-			"url": "https://market.yandex.ru/card/mylnitsa-kamennaya-haifisch-seryy-mramor/102235625856?businessId=6328344&clid=6328344&model_id=1885023193&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, бежевый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4905155/2a00000191c2197a3fe20352c985a1f15382/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-bezhevyy-mramor/103498102763?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Набор подсвечник на подставке из литьевого мрамора Haifisch, серый мрамор",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11621477/2a0000018ef5b10f423674176c8cc3e1f611/9",
-			"price": 4534,
-			"url": "https://market.yandex.ru/card/nabor-podsvechnik-na-podstavke-iz-lityevogo-mramora-haifisch-seryy-mramor/102977002175?businessId=6328344&clid=6328344&model_id=108468865&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подсвечник из искусственного камня Haifisch, зеленый мрамор, 2x9x5.5",
-			"shortName": "Подсвечник",
-			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16116122/2a00000198896272ab9a0a24d9adba5209c3/9",
-			"price": 975,
-			"url": "https://market.yandex.ru/card/podsvechnik-iz-iskusstvennogo-kamnya-haifisch-zelenyy-mramor-2x9x55/4579192593?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch овальная, бежевый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/6237625/2a00000192521627a860d52bed91ff1ec3a7/9",
-			"price": 1250,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya/103554516595?businessId=6328344&clid=6328344&model_id=685268677&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Круглый поднос Haifisch из искусственного камня 16 см, белый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12222123/2a0000018ef543510c8ac9fda31a18227ea6/9",
-			"price": 3743,
-			"url": "https://market.yandex.ru/card/kruglyy-podnos-haifisch-iz-lityevogo-mramora-16-sm-belyy-mramor/102438375420?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, белый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12535611/2a000001922d9e95175218268283f69c4632/9",
-			"price": 1355,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/103538477775?businessId=6328344&clid=6328344&model_id=685296396&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративная чаша \"Ладья\" Haifisch овальная 30 см, серый мрамор",
-			"shortName": "Декоративная чаша \"Ладья\"",
-			"categoryId": 61668507,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16413278/k_plus_KsLAeM0HxmxyiQT0rIco/9",
-			"price": 1880,
-			"url": "https://market.yandex.ru/card/dekorativnaya-chasha-ladya-haifisch-ovalnaya-30-sm-seryy-mramor/103640990431?businessId=6328344&clid=6328344&model_id=4964955405&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Стакан Haifisch для зубных щёток, искусственный камень, бежевый, 11x8 см",
-			"shortName": "Стакан для зубных щёток",
-			"categoryId": 63077468,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5210428/2a000001956fdb4e707bfdd31b77711c3124/9",
-			"price": 2036,
-			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-bezhevyy-mramor/102351715538?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Стакан Haifisch для зубных щёток, искусственный камень, классический, 11x8 см",
-			"shortName": "Стакан для зубных щёток",
-			"categoryId": 63077468,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4932805/2a000001956feca488cf5c67ee535d55dec6/9",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11442293/2a000001956fdb4e6bae2e3bd44feb51237f/9",
 			"price": 1978,
-			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-klassicheskiy-mramor/102050251733?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
+			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-seryy-mramor/102438371370?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Стакан Haifisch для зубных щёток, искусственный камень, чёрный, 11x8 см",
-			"shortName": "Стакан для зубных щёток",
-			"categoryId": 63077468,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11385384/2a0000018ba4d346ef1ceb3501a58feb76cf/9",
-			"price": 1978,
-			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-chernyy-mramor/102050462309?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, белый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/2009321/2a00000192746b2cc7bf867bd1b236388367/9",
-			"price": 2962,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch/103565317039?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос-кольцо из искусственного камня Haifisch, 18см, черный мрамор",
+			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, черный",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12252129/2a0000019463fffd4b3981c40900278990ab/9",
-			"price": 1670,
-			"url": "https://market.yandex.ru/card/podnos-koltso-iz-iskusstvennogo-kamnya-haifisch-18sm-chernyy-mramor/103724810171?businessId=6328344&clid=6328344&model_id=1224617532&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16466315/k_plus_aqBOSkeek3ToNsjViLCN/9",
+			"price": 5982,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-chernyy/103617835884?businessId=6328344&clid=6328344&model_id=1199798119&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
@@ -1566,102 +324,12 @@
 			"available": "true"
 		},
 		{
-			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, зеленый",
+			"name": "Подставка для украшений из искусственного камня Haifisch, черный",
 			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5521597/2a00000192a718a02227754b703f0af989eb/9",
-			"price": 4440,
-			"url": "https://market.yandex.ru/card/podnos-dekorativnyy-iz-iskusstvennogo-kamnya-17-sm/103583707590?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Подставка из искусственного камня для телефона Haifisch 10 см, бежевый мрамор",
-			"shortName": "Подставка для телефона",
-			"categoryId": 70318271,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5252557/2a00000192647202213823e22fd1dcd4152c/9",
-			"price": 935,
-			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch-10-sm/103558271939?businessId=6328344&clid=6328344&model_id=718874118&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница овальная из искусственного камня Haifisch, белый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5210379/2a00000192746d0fce3d475e0757d2ce7ac4/9",
-			"price": 2890,
-			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/103565236575?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос овальный из искусственного камня Haifisch, 20 см, бело-коричневый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/14816102/2a000001988983b3344281b86a43b4b69ede/9",
-			"price": 3668,
-			"url": "https://market.yandex.ru/card/podnos-ovalnyy-iz-iskusstvennogo-kamnya-haifisch-20-sm-belo-korichnevyy/4579292552?businessId=6328344&clid=6328344&model_id=1199776186&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня, черная, для кускового мыла",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/7516494/2a0000018f046fc59ab2fbd0aecb0bcb76a4/9",
-			"price": 1355,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-chernyy-mramor/103186591630?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, черный мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/7631329/2a00000190e602401074af689cb9829f919f/9",
-			"price": 2490,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch/103253404674?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch \"Листок\", белый мрамор",
-			"shortName": "Мыльница \"Листок\"",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5235429/2a00000190e5b710b82117a9c074774699d6/9",
-			"price": 4130,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok/103253197242?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Поднос Haifisch искусственный камень 24х16 см, волнистый, серый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/16482228/k_plus_qwoo6x1Xum3dSiSUYmGk/9",
-			"price": 3566,
-			"url": "https://market.yandex.ru/card/podnos-haifisch-iskusstvennyy-kamen-24kh16-sm-seryy/103531255100?businessId=6328344&clid=6328344&model_id=1201445659&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница Haifisch из искусственного камня для кускового мыла, бежевый мрамор, 3x12x8.8",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/6453326/2a0000019213ca4d5333c442254d409bcbae/9",
-			"price": 1355,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya/103253197243?businessId=6328344&clid=6328344&model_id=273432499&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 18 см, коричневый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11858961/2a0000018e154a9d4f019036b0a1d4d7aff6/9",
-			"price": 3743,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-18-sm-korichnevyy-mramor/102050234653?businessId=6328344&clid=6328344&model_id=1204496595&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня со сливом Haifisch, белый мрамор",
-			"shortName": "Мыльница со сливом",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/15034155/2a00000197f2a1288c3e88baa849429d2908/9",
-			"price": 3630,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch/103253192494?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
+			"categoryId": 65552378,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16484647/2a000001989984c252f7c6b3bf014d95c9cd/9",
+			"price": 3450,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-ukrasheniy-iz-iskusstvennogo-kamnya-haifisch-chernyy/4582737081?businessId=6328344&clid=6328344&model_id=1336029927&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
@@ -1674,102 +342,147 @@
 			"available": "true"
 		},
 		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черно-коричневый мрамор",
-			"shortName": "Держатель для бумажных полотенец",
-			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12325507/2a00000196197160100454ae88f7ebfbe01f/9",
-			"price": 3224,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-cherno-korichnevyy-mramor/102487875442?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, бело-розовый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4977172/2a00000190e5bac7f9fd66daf75c18dd346c/9",
+			"price": 1743,
+			"url": "https://market.yandex.ru/card/podnos-dekorativnyy-iz-iskusstvennogo-kamnya-17-sm/103253205892?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Мыльница из искусственного камня Haifisch \"Листок\", бежевый мрамор",
-			"shortName": "Мыльница \"Листок\"",
+			"name": "Держатель для бумажных полотенец, серый, бело-коричневый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/6065438/2a00000197544e9e9ece8ccc2175e50bdd6d/9",
+			"price": 3556,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-seryy-belo-korichnevyy-mramor/4311741737?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Стакан Haifisch для зубных щёток, искусственный камень, коричневый, 11x8 см",
+			"shortName": "Стакан для зубных щёток",
+			"categoryId": 63077468,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11375416/2a0000018b6831a36902757d7b403f19a65b/9",
+			"price": 2036,
+			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-korichnevyy-mramor/102050248390?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного камня, диаметр 30 см, серый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16164715/k_plus_8sk5e7AoDx5fxpQdhl4a/9",
+			"price": 6461,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-diametr-30-sm-seryy/102842144391?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Кашпо для цветов из искусственного камня Haifisch, 1.5 л, с подносом, белый мрамор",
+			"shortName": "Кашпо",
+			"categoryId": 61165230,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12225658/2a000001971b450a1c9e83ef257319112cad/9",
+			"price": 3468,
+			"url": "https://market.yandex.ru/card/kashpo-iz-iskusstvennogo-kamnya-haifisch-s-podnosom-belyy-mramor/4403637386?businessId=6328344&clid=6328344&model_id=1177806163&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Интерьерный поднос/подставка из искусственного камня Haifisch Белый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/3907807/2a000001921bc18fc0d7aecded9544b79f46/9",
+			"price": 3940,
+			"url": "https://market.yandex.ru/card/interyernyy-podnospodstavka-iz-lityevogo-mramora-haifisch-belyy-mramor/102409277802?businessId=6328344&clid=6328344&model_id=1345272637&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница без слива классическая Haifisch из декоративного мрамора",
+			"shortName": "Мыльница",
 			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11414233/2a000001922d90962e7cf64bd2ff3737d436/9",
-			"price": 4030,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok-bezhevyy-mramor/103538408232?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15049969/2a000001995c1bcc4b22b2d192b5b49a0395/9",
+			"price": 1500,
+			"url": "https://market.yandex.ru/card/mylnitsa-bez-sliva-klassicheskaya-haifisch-iz-dekorativnogo-mramora/4669046978?businessId=6328344&clid=6328344&model_id=4669046977&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 30 см Бордовый мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4472189/2a00000191c21b4cd973c60e196189a63615/9",
-			"price": 3946,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-iskusstvennogo-kamnya-haifisch-30-sm-bordovyy-mramor/103498101959?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
+			"name": "Ваза для цветов Haifisch рифленая из искусственного камня, серый мрамор",
+			"shortName": "Ваза для цветов",
+			"categoryId": 61853873,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16728488/2a000001983c71fdcda992e87b3e6f4763b0/9",
+			"price": 6268,
+			"url": "https://market.yandex.ru/card/vaza-dlya-tsvetov-haifisch-riflenaya-iz-iskusstvennogo-kamnya/4542413319?businessId=6328344&clid=6328344&model_id=1296268006&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Декоративный поднос Haifisch из искусственного камня, диаметр 30 см, белый",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5209134/2a0000018e1a05056dc65b1f5974c061a3f2/9",
-			"price": 5776,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-diametr-30-sm-belyy/102743205689?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Зеркало Haifisch, с рамой, в раме из мрамора, настенное, 60x60 см",
-			"shortName": "Зеркало",
-			"categoryId": 60719913,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/11472827/2a0000019a00b9bbade4f83bb571b2eda6a9/9",
-			"price": 5817,
-			"url": "https://market.yandex.ru/card/zerkalo-v-rame-iz-lityevogo-mramora-60-sm-haifisch/103253199883?businessId=6328344&clid=6328344&model_id=273430558&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, коричневый мрамор",
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черно-бежевый мрамор",
 			"shortName": "Держатель для бумажных полотенец",
 			"categoryId": 62587135,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5235429/2a00000196198e138353fc8e7ba794a035f8/9",
-			"price": 2454,
-			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-korichnevyy-mramor/102050244999?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11532558/2a0000018bb98ccc4e7f36f094fd2665657e/9",
+			"price": 2132,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-cherno-bezhevyy-mramor/102487733128?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Набор подсвечник на овальной подставке из искусственного камня Haifisch, классический мрамор",
+			"name": "Набор подсвечник на овальной подставке из искусственного камня Haifisch, черный мрамор",
 			"shortName": "Подсвечник",
 			"categoryId": 12859763,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/12500095/2a00000195a90a7d3daf48bfc07f5debf440/9",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12256862/2a0000018f063cb79b75f1262ef95550a7fc/9",
 			"price": 1518,
-			"url": "https://market.yandex.ru/card/nabor-podsvechnik-na-podstavke-iz-lityevogo-mramora-haifisch-klassicheskiy-mramor/102071353238?businessId=6328344&clid=6328344&model_id=1885029174&distr_type=8&pp=605",
+			"url": "https://market.yandex.ru/card/nabor-podsvechnik-na-podstavke-iz-lityevogo-mramora-haifisch-chernyy-mramor/102071353236?businessId=6328344&clid=6328344&model_id=1226327301&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Мыльница из искусственного камня Haifisch овальная, белый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5232221/2a00000191c21d19926490c4844029206726/9",
-			"price": 1040,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/103498101320?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Мыльница из искусственного камня Haifisch овальная, белый мрамор",
-			"shortName": "Мыльница",
-			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5243609/2a000001922d8dd6588aecfd6380bf84ad7f/9",
-			"price": 3222,
-			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/103538411047?businessId=6328344&clid=6328344&model_id=685268677&distr_type=8&pp=605",
-			"available": "true"
-		},
-		{
-			"name": "Декоративный поднос Haifisch из искусственного камня 16х11 см, розовый мрамор",
+			"name": "Декоративный поднос из искусственного камня Haifisch 18 см, классический мрамор",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/4055794/2a0000019213cc0ea4a22687d0d7e22c6660/9",
-			"price": 1810,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-rozovyy-mramor/102842161003?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4120495/2a0000018e1546c75cbde7d2e4a9e1aecada/9",
+			"price": 3743,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-18-sm-klassicheskiy-mramor/102050234652?businessId=6328344&clid=6328344&model_id=1875231813&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Декоративный поднос из искусственного камня Haifisch 30 см Бело-коричневый мрамор",
+			"name": "Менажница из искусственного камня Haifisch 30см, серый мрамор",
+			"shortName": "Менажница",
+			"categoryId": 62211292,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/2014136/2a000001925216668214ebec6f7c4947ea61/9",
+			"price": 7129,
+			"url": "https://market.yandex.ru/card/menazhnitsa-iz-lityevogo-mramora-haifisch-30sm-seryy-mramor/103554529187?businessId=6328344&clid=6328344&model_id=681524287&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец Haifisch из искусственного камня, зеленый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4255269/2a000001975440c35b0acdb28dd760753bf1/9",
+			"price": 1760,
+			"url": "https://market.yandex.ru/card/nastolnyy-derzhatel-dlya-bumazhnykh-polotenets-izumrudnyy-mramor/4311810607?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Стакан Haifisch для зубных щёток, искусственный камень, бордовый, 11x8 см",
+			"shortName": "Стакан для зубных щёток",
+			"categoryId": 63077468,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5236741/2a00000191c229f8c47ca70093336fe60b4e/9",
+			"price": 1978,
+			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-iskusstvennogo-kamnya-haifisch-bordovyy-mramor/103498127822?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подставка из искусственного камня для телефона Haifisch 10 см, белый мрамор",
+			"shortName": "Подставка для телефона",
+			"categoryId": 70318271,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12631971/2a000001926472021bd6a20f19d3d2c93f64/9",
+			"price": 935,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch-10-sm/103558271937?businessId=6328344&clid=6328344&model_id=718874118&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос Haifisch из искусственного камня 16 см, чёрный мрамор",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5233990/2a00000191c21b4cd9e2560014564523a9e9/9",
-			"price": 7946,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-iskusstvennogo-kamnya-haifisch-30-sm-belo-korichnevyy-mramor/103498101960?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12626365/2a0000018ef543510b20e5242fcea9b7ede7/9",
+			"price": 4290,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-haifisch-iz-lityevogo-mramora-16-sm-chernyy-mramor/102438375419?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
@@ -1782,21 +495,246 @@
 			"available": "true"
 		},
 		{
-			"name": "Декоративный поднос Haifisch из искусственного камня 16х11 см, черный мрамор",
-			"shortName": "Декоративный поднос",
-			"categoryId": 12494798,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/5220415/2a0000019213cc0cedbe98435433fa62c313/9",
-			"price": 4642,
-			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-chernyy-mramor/102842161001?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
+			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, черный мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/7631329/2a00000190e602401074af689cb9829f919f/9",
+			"price": 2490,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch/103253404674?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
-			"name": "Мыльница Haifisch из искусственного камня для кускового мыла, бело-коричневый мрамор, 3x12x8.8",
+			"name": "Поднос овальный из искусственного камня Haifisch, 20 см, белый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15318406/2a0000019648d3139bcec2c0800f8d14d9c5/9",
+			"price": 1590,
+			"url": "https://market.yandex.ru/card/podnos-ovalnyy-20-sm-znachok-iz-iskusstvennogo-kamnya-haifisch-belyy/4328597829?businessId=6328344&clid=6328344&model_id=1199776186&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, белый мрамор",
 			"shortName": "Мыльница",
 			"categoryId": 63066152,
-			"picture": "https://avatars.mds.yandex.net/get-mpic/1673800/2a00000191c21c425777d87f7a712e35cca6/9",
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12535611/2a000001922d9e95175218268283f69c4632/9",
+			"price": 1355,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/103538477775?businessId=6328344&clid=6328344&model_id=685296396&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец Haifisch из искусственного камня, бордовый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4615396/2a000001961a0a2f1537ede4f86ce061f0ca/9",
+			"price": 2656,
+			"url": "https://market.yandex.ru/card/nastolnyy-derzhatel-dlya-bumazhnykh-polotenets-bordovyy-mramor/4311804906?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, классический мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11462999/2a0000018bb99b222aadfd7b71f3b4be4784/9",
+			"price": 2182,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-klassicheskiy-mramor/102028985230?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос-кольцо из искусственного камня Haifisch, 18см, черный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12621455/2a0000019463fffd4e729edf941962e6b05f/9",
+			"price": 1670,
+			"url": "https://market.yandex.ru/card/podnos-koltso-iz-iskusstvennogo-kamnya-haifisch-18sm-chernyy-mramor/103724810170?businessId=6328344&clid=6328344&model_id=1224617532&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch \"Листок\", черный мрамор",
+			"shortName": "Мыльница \"Листок\"",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5234357/2a00000191c21b5fd2b8f64985e5e7dc2c4d/9",
+			"price": 2623,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok-chernyy-mramor/103498101968?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос Haifisch искусственный камень 24х16 см, волнистый, черный",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5322414/2a000001922da24e922dcf1ab2ab1a19db77/9",
+			"price": 4766,
+			"url": "https://market.yandex.ru/card/podnos-haifisch-iskusstvennyy-kamen-24kh16-sm-chernyy/103538474544?businessId=6328344&clid=6328344&model_id=1201445659&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, коричневый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4303516/2a00000190e5b5342e15a48d8f7839045da2/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch/103253197241?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подсвечник из искусственного камня Haifisch, бело-коричневый мрамор, 2x9x5.5",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16141378/2a000001988982a714c518174baa118616f2/9",
+			"price": 1725,
+			"url": "https://market.yandex.ru/card/podsvechnik-iz-iskusstvennogo-kamnya-haifisch-belo-korichnevyy-mramor-2x9x55/4579285630?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Интерьерный поднос/подставка из искусственного камня Haifisch, черный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12016886/k_plus_Gm4cd4dfPelKTPDFLVnI/9",
+			"price": 3440,
+			"url": "https://market.yandex.ru/card/interyernyy-podnospodstavka-iz-lityevogo-mramora-haifisch-chernyy-mramor/102351707085?businessId=6328344&clid=6328344&model_id=1345272637&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Стакан Haifisch для зубных щёток, искусственный камень, бело-коричневый, 11x8 см",
+			"shortName": "Стакан для зубных щёток",
+			"categoryId": 63077468,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/7464534/2a00000192521b5580c2a519e2d93b6b962b/9",
+			"price": 2956,
+			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-haifisch-belo-korichnevyy-mramor/103554528662?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного камня 22х16 см, бежевый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5214322/2a0000018e0a6a863a4678e92c85d6b2cfc7/9",
+			"price": 6036,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-22kh16-sm-bezhevyy-mramor/102842146915?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch овальная, белый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5232221/2a00000191c21d19926490c4844029206726/9",
+			"price": 1040,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/103498101320?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Зеркало Haifisch, с рамой, в раме из мрамора, настенное, 60x60 см",
+			"shortName": "Зеркало",
+			"categoryId": 60719913,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11472827/2a0000019a00b9bbade4f83bb571b2eda6a9/9",
+			"price": 5817,
+			"url": "https://market.yandex.ru/card/zerkalo-v-rame-iz-lityevogo-mramora-60-sm-haifisch/103253199883?businessId=6328344&clid=6328344&model_id=273430558&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 25см, бело-коричневый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/14832725/k_plus_6EjLoBSFsZc8DxRklmCT/9",
+			"price": 9740,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-belo-korichnevyy-mramor/103554531208?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного камня 22х16 см, серый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16837769/k_plus_EQJsPs5Rtd7DemuGLqJW/9",
+			"price": 5985,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-22kh16-sm-seryy-mramor/102777500975?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch \"Листок\", белый мрамор",
+			"shortName": "Мыльница \"Листок\"",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5235429/2a00000190e5b710b82117a9c074774699d6/9",
+			"price": 4130,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok/103253197242?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Тройной подсвечник из искусственного камня Haifisch, бело-розовый мрамор",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5233452/2a00000190e5b53c66e9c93df13cf06f33f3/9",
+			"price": 1340,
+			"url": "https://market.yandex.ru/card/troynoy-podsvechnik-iz-iskusstvennogo-kamnya-haifisch/103253198079?businessId=6328344&clid=6328344&model_id=1214159852&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подставка из искусственного камня для телефона Haifisch 10 см, бежевый мрамор",
+			"shortName": "Подставка для телефона",
+			"categoryId": 70318271,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5252557/2a00000192647202213823e22fd1dcd4152c/9",
+			"price": 935,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch-10-sm/103558271939?businessId=6328344&clid=6328344&model_id=718874118&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Стакан Haifisch для зубных щёток, искусственный камень, чёрный, 11x8 см",
+			"shortName": "Стакан для зубных щёток",
+			"categoryId": 63077468,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11385384/2a0000018ba4d346ef1ceb3501a58feb76cf/9",
+			"price": 1978,
+			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-chernyy-mramor/102050462309?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос волнистый из искусственного камня Haifisch, 20 см, белый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/14331733/2a00000196cf345571346c4d109bf9a6ce9c/9",
+			"price": 1590,
+			"url": "https://market.yandex.ru/card/podnos-volnistyy-iz-iskusstvennogo-kamnya-haifisch-20-sm/4373837616?businessId=6328344&clid=6328344&model_id=1209404495&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня для кускового мыла, белый мрамор, 3x12x8.8",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4249638/2a00000191c21c4257866bc4198fab9d2d0d/9",
 			"price": 3355,
-			"url": "https://market.yandex.ru/card/mylnitsa-haifisch-iz-iskusstvennogo-kamnya-belo-korichnevyy-mramor/103498099327?businessId=6328344&clid=6328344&model_id=273432499&distr_type=8&pp=605",
+			"url": "https://market.yandex.ru/card/mylnitsa-haifisch-iz-iskusstvennogo-kamnya-belyy-mramor/103498099328?businessId=6328344&clid=6328344&model_id=273432499&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, коричневый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11401175/2a0000019213d39f0bd01ab88dd624858251/9",
+			"price": 1948,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-lityevogo-mramora-haifisch/102605395293?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня, зеленая, для кускового мыла",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/6212300/2a00000190e5b8ee93c304d3dc59e881ce69/9",
+			"price": 3355,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch/103272015524?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, зеленый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5521597/2a00000192a718a02227754b703f0af989eb/9",
+			"price": 4440,
+			"url": "https://market.yandex.ru/card/podnos-dekorativnyy-iz-iskusstvennogo-kamnya-17-sm/103583707590?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня со сливом Haifisch, черный мрамор",
+			"shortName": "Мыльница со сливом",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12491287/2a00000197f2a1288d622f5332b935b81824/9",
+			"price": 3530,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch/103253192495?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
 			"available": "true"
 		},
 		{
@@ -1809,12 +747,1074 @@
 			"available": "true"
 		},
 		{
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, бордовый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4399094/2a00000191c21c3104df87b892419392d1b5/9",
+			"price": 2440,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-iskusstvennogo-kamnya-haifisch-17-sm-bordovyy/103498104840?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подсвечник из искусственного камня Haifisch, бежевый мрамор, 2x9x5.5",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/3986638/2a00000192521654409ad7c17f16ba4624d3/9",
+			"price": 839,
+			"url": "https://market.yandex.ru/card/podsvechnik-iz-lityevogo-mramora-haifisch-bezhevyy-mramor/103554529156?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черный",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11532558/2a0000018bb98cc23fce016d0f7aef4c631b/9",
+			"price": 3132,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-chernyy/102487733129?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из литьевого мрамора 16х11 см, серый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4544730/2a00000191c2025cbda8db28e71e2986bce5/9",
+			"price": 4810,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-seryy-mramor/103498079053?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 18 см, коричневый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11858961/2a0000018e154a9d4f019036b0a1d4d7aff6/9",
+			"price": 3743,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-18-sm-korichnevyy-mramor/102050234653?businessId=6328344&clid=6328344&model_id=1204496595&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня для кускового мыла, зеленый мрамор, 3x12x8.8",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/7724829/2a00000197f2aebda35eac6b6ec677cb2abd/9",
+			"price": 3250,
+			"url": "https://market.yandex.ru/card/mylnitsa-haifisch-iz-iskusstvennogo-kamnya-zelenyy-mramor/103498133842?businessId=6328344&clid=6328344&model_id=273432499&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, белый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5332113/2a0000019307066090199552530792ba5394/9",
+			"price": 8582,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-belyy/103617835885?businessId=6328344&clid=6328344&model_id=1199798119&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Набор подсвечник на подставке из литьевого мрамора Haifisch, серый мрамор",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11621477/2a0000018ef5b10f423674176c8cc3e1f611/9",
+			"price": 4534,
+			"url": "https://market.yandex.ru/card/nabor-podsvechnik-na-podstavke-iz-lityevogo-mramora-haifisch-seryy-mramor/102977002175?businessId=6328344&clid=6328344&model_id=108468865&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница овальная из искусственного камня Haifisch, бело-коричневый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5283489/2a00000191c21b79ae9e6c41dfbb8a5c3ab8/9",
+			"price": 3250,
+			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/103498099326?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративная чаша \"Ладья\" Haifisch овальная 30 см, белый мрамор",
+			"shortName": "Декоративная чаша \"Ладья\"",
+			"categoryId": 61668507,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/18198438/k_plus_Jp9JGFkj9XDt6Fhx9zx3/9",
+			"price": 2621,
+			"url": "https://market.yandex.ru/card/dekorativnaya-chasha-ladya-haifisch-ovalnaya-30-sm-belyy-mramor/103640990429?businessId=6328344&clid=6328344&model_id=4964955405&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черно-серый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11450294/2a0000018bb98cd5e39be1cb2730d4df7c4a/9",
+			"price": 4782,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-cherno-seryy-mramor/102487875443?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Светильник подвесной Coverlet из декоративного мрамора Haifisch, зеленый мрамор",
+			"shortName": "Светильник",
+			"categoryId": 61420224,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4120567/2a00000199ce274dfbccfe4601b8df25617f/9",
+			"price": 5490,
+			"url": "https://market.yandex.ru/card/svetilnik-podvesnoy-coverlet-iz-dekorativnogo-mramora-haifisch-zelenyy-mramor/4700086453?businessId=6328344&clid=6328344&model_id=1462703677&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, бежевый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5253116/2a000001925216483a9fffdabcc0a1bec1d8/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch/103554529959?businessId=6328344&clid=6328344&model_id=685296396&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, коричневый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/14411065/k_plus_K3fnFKLNEjJLFgmwAbhS/9",
+			"price": 9240,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-korichnevyy-mramor/102842137243?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос овальный из искусственного камня Haifisch, 20 см, бело-коричневый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/14816102/2a000001988983b3344281b86a43b4b69ede/9",
+			"price": 3668,
+			"url": "https://market.yandex.ru/card/podnos-ovalnyy-iz-iskusstvennogo-kamnya-haifisch-20-sm-belo-korichnevyy/4579292552?businessId=6328344&clid=6328344&model_id=1199776186&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch овальная, серый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/1862933/2a00000191c21d4490698b24260d46f68470/9",
+			"price": 1040,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-seryy-mramor/103498101321?businessId=6328344&clid=6328344&model_id=592166769&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, белый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12219175/2a0000019213d39f0a146ed916711b58c63d/9",
+			"price": 1816,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-lityevogo-mramora-haifisch/102605273428?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, бело-коричневый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/6256254/2a000001930ace59e7c45cad774dd876eccb/9",
+			"price": 8182,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-belo-korichnevyy/103618694797?businessId=6328344&clid=6328344&model_id=1199798119&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch овальная, бежевый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/6237625/2a00000192521627a860d52bed91ff1ec3a7/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya/103554516595?businessId=6328344&clid=6328344&model_id=685268677&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос из искусственного камня Haifisch круглый 18x18 см, бежевый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12281819/2a0000019213cc0ea4d4018cf1a1c24d2c46/9",
+			"price": 1670,
+			"url": "https://market.yandex.ru/card/podnos-iz-iskusstvennogo-kamnya-haifisch-18-sm-bezhevyy/103531242023?businessId=6328344&clid=6328344&model_id=1205148054&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного камня 16х11 см, розовый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4055794/2a0000019213cc0ea4a22687d0d7e22c6660/9",
+			"price": 1810,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-rozovyy-mramor/102842161003?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос волнистый из искусственного камня Haifisch, 20 см, серый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15256585/2a00000196cf348bdd66bbf8fb07beccc0e9/9",
+			"price": 1590,
+			"url": "https://market.yandex.ru/card/podnos-volnistyy-iz-iskusstvennogo-kamnya-haifisch-20-sm/4373838415?businessId=6328344&clid=6328344&model_id=1209404495&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, черный мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/1581127/2a000001922d9e952537f80240753f921e5c/9",
+			"price": 1355,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-chernyy-mramor/103538477776?businessId=6328344&clid=6328344&model_id=685296396&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного мрамора 22х16 см, зеленый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15284069/2a00000198891f8d6c57f6967d223e451fe6/9",
+			"price": 5585,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-22kh16-sm-zelenyy-mramor/4578987892?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня, бело-коричневая, для кускового мыла",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/1767083/2a00000190e5b8ee91486886deb43c0823ba/9",
+			"price": 2990,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-kamnya-haifisch/103270896463?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, белый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/2009321/2a00000192746b2cc7bf867bd1b236388367/9",
+			"price": 2962,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch/103565317039?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подставка для украшений из искусственного камня Haifisch, бело-коричневый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 65552378,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15426853/2a000001989a024817e160237e73e05680cd/9",
+			"price": 3150,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-ukrasheniy-iz-iskusstvennogo-kamnya-haifisch-belo-korichnevyy/4582868963?businessId=6328344&clid=6328344&model_id=1336029927&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос Haifisch искусственный камень 24х16 см, волнистый, бежевый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5220415/2a0000019213d199d0946b3ae191a375e877/9",
+			"price": 2989,
+			"url": "https://market.yandex.ru/card/podnos-haifisch-iskusstvennyy-kamen-24kh16-sm-bezhevyy/103531255099?businessId=6328344&clid=6328344&model_id=1201445659&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подставка из искусственного камня для телефона Haifisch, серый мрамор",
+			"shortName": "Подставка для телефона",
+			"categoryId": 70318271,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/6453326/2a0000019264837e020f6bdf37b94e5a68fa/9",
+			"price": 935,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch/103558267201?businessId=6328344&clid=6328344&model_id=718894312&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос круглый с волнистыми краями Haifisch 25см, черный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12418417/2a00000195a94ed8e7f29464c51d63c7cd5a/9",
+			"price": 7582,
+			"url": "https://market.yandex.ru/card/podnos-kruglyy-s-volnistymi-krayami-haifisch-25sm-chernyy-mramor/103823109324?businessId=6328344&clid=6328344&model_id=1203220043&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch \"Листок\", бордовый мрамор",
+			"shortName": "Мыльница \"Листок\"",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/3925628/2a00000191c21b5ea04487bc0b5f18b5661b/9",
+			"price": 3430,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok-bordovyy-mramor/103498101969?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Интерьерный поднос/подставка из искусственного камня Haifisch, коричневый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4728959/k_plus_ObcQbmg56y75JKi8b9JK/9",
+			"price": 4290,
+			"url": "https://market.yandex.ru/card/interyernyy-podnospodstavka-iz-lityevogo-mramora-haifisch-korichnevyy-mramor/102701628363?businessId=6328344&clid=6328344&model_id=1885021996&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Стакан Haifisch для зубных щёток, искусственный камень, классический, 11x8 см",
+			"shortName": "Стакан для зубных щёток",
+			"categoryId": 63077468,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4932805/2a000001956feca488cf5c67ee535d55dec6/9",
+			"price": 1978,
+			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-klassicheskiy-mramor/102050251733?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня со сливом Haifisch, серый мрамор",
+			"shortName": "Мыльница со сливом",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15628591/2a00000197f2a1288df9de2b39f097206c66/9",
+			"price": 3530,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch/103253192496?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница овальная из искусственного камня Haifisch, коричневый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4977172/2a00000190e5b8ef4f608521d450543f1a71/9",
+			"price": 3450,
+			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/103253194090?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch \"Листок\", бело-коричневый мрамор",
+			"shortName": "Мыльница \"Листок\"",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/7543961/2a00000191c21b5ea2b81a050fd2a478d470/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok-belo-korichnevyy-mramor/103498101967?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 18 см, серый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11483501/2a00000195a90764404966dd72013ffa9672/9",
+			"price": 3743,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-18-sm-seryy-mramor/102448552366?businessId=6328344&clid=6328344&model_id=1204496595&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос/подставка Haifisch из искусственного камня, 22х16 см, черный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/17846399/k_plus_yt07VnKN9TKFRYhTeFw3/9",
+			"price": 7982,
+			"url": "https://market.yandex.ru/card/podnospodstavka-haifisch-iz-lityevogo-mramora-22kh16-sm-chernyy-mramor/102746669513?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 25см, бежевый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/17717916/k_plus_azIxKuyBBFgHMsBydMrz/9",
+			"price": 9740,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-bezhevyy-mramor/103554531209?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Набор подсвечник на овальной подставке из искусственного камня Haifisch, классический мрамор",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12500095/2a00000195a90a7d3daf48bfc07f5debf440/9",
+			"price": 1518,
+			"url": "https://market.yandex.ru/card/nabor-podsvechnik-na-podstavke-iz-lityevogo-mramora-haifisch-klassicheskiy-mramor/102071353238?businessId=6328344&clid=6328344&model_id=1885029174&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Стол журнальный из декоративного мрамора Haifisch с деревянным подстольем, белый",
+			"shortName": "Стол",
+			"categoryId": 60848228,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15038321/2a000001995c1d1dab239dd3d8b79fb69d0b/9",
+			"price": 14990,
+			"url": "https://market.yandex.ru/card/stol-zhurnalnyy-iz-dekorativnogo-mramora-haifisch-s-derevyannym-podstolyem-belyy/4669046034?businessId=6328344&clid=6328344&model_id=4669046033&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черно-коричневый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12325507/2a00000196197160100454ae88f7ebfbe01f/9",
+			"price": 3224,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-cherno-korichnevyy-mramor/102487875442?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Ваза для цветов Haifisch рифленая из искусственного камня, белый мрамор",
+			"shortName": "Ваза для цветов",
+			"categoryId": 61853873,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15049969/2a000001983c7fddc9b89c5a4c41bb0b19a5/9",
+			"price": 6268,
+			"url": "https://market.yandex.ru/card/vaza-dlya-tsvetov-haifisch-riflenaya-iz-iskusstvennogo-kamnya/4542508992?businessId=6328344&clid=6328344&model_id=1296268006&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос овальный из искусственного камня Haifisch 30см, черный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16055235/2a00000197104568e025825860ffbb7eea58/9",
+			"price": 6908,
+			"url": "https://market.yandex.ru/card/podnos-ovalnyy-iz-iskusstvennogo-kamnya-haifisch-30sm-chernyy-mramor/4398897552?businessId=6328344&clid=6328344&model_id=1260579434&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch, большая овальная, черная",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5234219/2a0000019252167fcd56d97965608ed6b68a/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-bolshoy-oval/103554518533?businessId=6328344&clid=6328344&model_id=705475794&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос - чаша \"Капля\" из искусственного камня Haifisch, белый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4934335/2a0000019384ff4573416ccd403cdc963310/9",
+			"price": 1775,
+			"url": "https://market.yandex.ru/card/podnos---chasha-kaplya-iz-iskusstvennogo-kamnya-haifisch-chernyy/103662262005?businessId=6328344&clid=6328344&model_id=1204255006&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос-кольцо из искусственного камня Haifisch, 18см, черный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12252129/2a0000019463fffd4b3981c40900278990ab/9",
+			"price": 1670,
+			"url": "https://market.yandex.ru/card/podnos-koltso-iz-iskusstvennogo-kamnya-haifisch-18sm-chernyy-mramor/103724810171?businessId=6328344&clid=6328344&model_id=1224617532&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Набор подсвечник на подставке из литьевого мрамора Haifisch, коричневый мрамор",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12306721/2a0000018ef5b10e28647bc8e475766e952b/9",
+			"price": 4100,
+			"url": "https://market.yandex.ru/card/nabor-podsvechnik-na-podstavke-iz-lityevogo-mramora-haifisch-korichnevyy-mramor/102977008918?businessId=6328344&clid=6328344&model_id=108468865&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подставка из литьевого мрамора для телефона Haifisch 10 см, черный мрамор",
+			"shortName": "Подставка для телефона",
+			"categoryId": 70318271,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/7724829/2a000001926472021bbb05a29daf9899e67e/9",
+			"price": 1429,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch-10-sm/103558271940?businessId=6328344&clid=6328344&model_id=718874118&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 25 см, серый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16508997/k_plus_wD9lZ333SRF81tVKimPH/9",
+			"price": 9140,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-seryy-mramor/102763027284?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Тройной подсвечник из искусственного камня Haifisch, черный мрамор",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5151433/2a00000190e5b53c68180dd0b46d0612f835/9",
+			"price": 1340,
+			"url": "https://market.yandex.ru/card/troynoy-podsvechnik-iz-iskusstvennogo-kamnya-haifisch/103253198080?businessId=6328344&clid=6328344&model_id=1214159852&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня для кускового мыла, бежевый мрамор, 3x12x8.8",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/6453326/2a0000019213ca4d5333c442254d409bcbae/9",
+			"price": 1355,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya/103253197243?businessId=6328344&clid=6328344&model_id=273432499&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Светильник подвесной Coverlet из декоративного мрамора Haifisch, бордовый мрамор",
+			"shortName": "Светильник",
+			"categoryId": 61420224,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/18274777/2a00000199ce56d468aae8a4ff80399ff53a/9",
+			"price": 5490,
+			"url": "https://market.yandex.ru/card/svetilnik-podvesnoy-coverlet-iz-dekorativnogo-mramora-haifisch-bordovyy-mramor/4700238118?businessId=6328344&clid=6328344&model_id=1462703677&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, бело-коричневый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11919271/2a00000191c2820c88aad5046db526c88966/9",
+			"price": 1743,
+			"url": "https://market.yandex.ru/card/podnos-dekorativnyy-iz-iskusstvennogo-kamnya-17-sm/103253205894?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративная чаша \"Ладья\" Haifisch овальная 30 см, серый мрамор",
+			"shortName": "Декоративная чаша \"Ладья\"",
+			"categoryId": 61668507,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16413278/k_plus_KsLAeM0HxmxyiQT0rIco/9",
+			"price": 1880,
+			"url": "https://market.yandex.ru/card/dekorativnaya-chasha-ladya-haifisch-ovalnaya-30-sm-seryy-mramor/103640990431?businessId=6328344&clid=6328344&model_id=4964955405&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, бело-коричневый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5231768/2a00000191c2197a3eba658a6b81dd2a7bfd/9",
+			"price": 3250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-belo-korichnevyy-mramor/103498102762?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец, черный, бело-коричневый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16447976/2a00000197544e9ea0a24823616588002928/9",
+			"price": 4882,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-chernyy-belo-korichnevyy-mramor/4311741738?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подсвечник из искусственного камня Haifisch, серый мрамор, 2x9x5.5",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12390472/2a0000018ef569e652705ccacee06d9c20a7/9",
+			"price": 839,
+			"url": "https://market.yandex.ru/card/podsvechnik-iz-lityevogo-mramora-haifisch-seryy-mramor/102970694789?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративная чаша \"Ладья\" Haifisch овальная 30 см, бело-коричневый мрамор",
+			"shortName": "Декоративная чаша \"Ладья\"",
+			"categoryId": 61668507,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16490989/k_plus_b2atMLmkgU1FpJ4QZ3c5/9",
+			"price": 2388,
+			"url": "https://market.yandex.ru/card/dekorativnaya-chasha-ladya-haifisch-ovalnaya-30-sm-belo-korichnevyy-mramor/103640990430?businessId=6328344&clid=6328344&model_id=4964955405&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch, большая овальная, белая",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12263917/2a0000019252167fcfb51eb83cf0775471cc/9",
+			"price": 1355,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-bolshoy-oval-belaya/103554518534?businessId=6328344&clid=6328344&model_id=705475794&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подставка для украшений из искусственного камня Haifisch, белый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 65552378,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16125524/2a0000019899552e004de24dc0d17fdbeb6c/9",
+			"price": 3150,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-ukrasheniy-iz-iskusstvennogo-kamnya-haifisch-belyy/4582673015?businessId=6328344&clid=6328344&model_id=4840167766&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, бежевый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15257343/2a00000197f2b369d445001ebf73459912d1/9",
+			"price": 2940,
+			"url": "https://market.yandex.ru/card/podnos-dekorativnyy-iz-iskusstvennogo-kamnya-17-sm/103253205893?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Стакан Haifisch для зубных щёток, искусственный камень, иссиня-чёрный, 11x8 см",
+			"shortName": "Стакан для зубных щёток",
+			"categoryId": 63077468,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000019384f9b15d4430f3051589236549/9",
+			"price": 2328,
+			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-haifisch-polnostyu-chernyy/103662261147?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Кашпо для цветов из искусственного камня Haifisch, 1.5 л, белый мрамор",
+			"shortName": "Кашпо",
+			"categoryId": 61165230,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15282130/2a000001971b45063247af9466f5fb485060/9",
+			"price": 5368,
+			"url": "https://market.yandex.ru/card/kashpo-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/4403630952?businessId=6328344&clid=6328344&model_id=1177805182&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница овальная из искусственного мрамора Haifisch, бордовый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/13882608/2a00000196cf34810a85ef0a3d021a7bdf84/9",
+			"price": 3662,
+			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/4373832164?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch, большая овальная, бежевая",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/6966796/2a00000192b16231cc23381b36a2d28bfdfe/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-bolshoy-oval-bezhevaya/103585588319?businessId=6328344&clid=6328344&model_id=705475794&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос - чаша \"Капля\" из искусственного камня Haifisch, бело-коричневый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16464876/2a000001988940a8cfc81cbc9b557344d05d/9",
+			"price": 2475,
+			"url": "https://market.yandex.ru/card/podnos---chasha-kaplya-iz-iskusstvennogo-kamnya-haifisch-belo-korichnevyy/4579141580?businessId=6328344&clid=6328344&model_id=1204255006&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, серый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/1937077/2a0000019213d39f0ccaaf44f11582fd0570/9",
+			"price": 3270,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-lityevogo-mramora-haifisch/102605395294?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница овальная из искусственного камня Haifisch, белый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5210379/2a00000192746d0fce3d475e0757d2ce7ac4/9",
+			"price": 2890,
+			"url": "https://market.yandex.ru/card/mylnitsa-ovalnaya-iz-lityevogo-mramora-haifisch/103565236575?businessId=6328344&clid=6328344&model_id=273426817&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, бежевый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11375416/2a0000018bb99b137b3eac21a2477e5c28e8/9",
+			"price": 3370,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-bezhevyy-mramor/102351732947?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос овальный из искусственного камня Haifisch 30см, белый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/14579750/2a00000197103bc466f0471784273c20460b/9",
+			"price": 4988,
+			"url": "https://market.yandex.ru/card/podnos-ovalnyy-iz-iskusstvennogo-kamnya-haifisch-30sm/4398877287?businessId=6328344&clid=6328344&model_id=1260579434&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня, серый мрамор, 3x12x8.8",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/6425823/2a00000195862d76a514e8ec4b815212d4d2/9",
+			"price": 3355,
+			"url": "https://market.yandex.ru/card/mylnitsa-kamennaya-haifisch-seryy-mramor/102235625856?businessId=6328344&clid=6328344&model_id=1885023193&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного камня 16х11 см, зелёный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5238586/2a0000019213cbeebf29da67d8321cb6e4fb/9",
+			"price": 5642,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-zelenyy-mramor/102842161002?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Стакан Haifisch для зубных щёток, искусственный камень, бежевый, 11x8 см",
+			"shortName": "Стакан для зубных щёток",
+			"categoryId": 63077468,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5210428/2a000001956fdb4e707bfdd31b77711c3124/9",
+			"price": 2036,
+			"url": "https://market.yandex.ru/card/stakan-dlya-zubnykh-shchetok-iz-lityevogo-mramora-haifisch-bezhevyy-mramor/102351715538?businessId=6328344&clid=6328344&model_id=1877771419&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из литьевого мрамора 16х11 см, белый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5151028/2a0000019213cc0ce983ddd461ccdf1bbb7b/9",
+			"price": 4810,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-belyy-mramor/102842128673?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного камня 22х16 см, бордовый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12371932/k_plus_qK4qYhKHXaMmWYQW1luv/9",
+			"price": 5390,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-iskusstvennogo-kamnya-22kh16-sm-bordovyy-mramor/103498095350?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного камня 22х16 см, коричневый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15285180/k_plus_DLEwkO2hTZllWFArLioJ/9",
+			"price": 5999,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-22kh16-sm-korichnevyy-mramor/102777500976?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос Haifisch искусственный камень 24х16 см, волнистый, белый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11417897/2a000001922da24e8f04edaef9cb8568bf12/9",
+			"price": 2526,
+			"url": "https://market.yandex.ru/card/podnos-haifisch-iskusstvennyy-kamen-24kh16-sm-belyy/103538474545?businessId=6328344&clid=6328344&model_id=1201445659&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подсвечник из искусственного камня Haifisch, белый мрамор, 2x9x5.5",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12374158/2a0000018ef569e64f5edcf81cba81e26b5d/9",
+			"price": 1725,
+			"url": "https://market.yandex.ru/card/podsvechnik-iz-lityevogo-mramora-haifisch-belyy-mramor/102071353239?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня, черный мрамор, 3x12x8.8",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/7690783/2a0000019213c5ae17c03136870de68e3b66/9",
+			"price": 3190,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-chernyy-mramor/103191222762?businessId=6328344&clid=6328344&model_id=1885023193&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос для украшений и свечей из искусственного камня Haifisch 17 см, черный",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11483862/k_plus_QQT1U3hbGPzplKO1o81I/9",
+			"price": 2968,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-dlya-ukrasheniy-i-svechey-iz-lityevogo-mramora-haifisch/102605395292?businessId=6328344&clid=6328344&model_id=1199378515&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос Haifisch из искусственного камня 16 см, коричневый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12523390/2a0000018ef543510e682a598e79ab9a4bb4/9",
+			"price": 1350,
+			"url": "https://market.yandex.ru/card/kruglyy-podnos-haifisch-iz-lityevogo-mramora-16-sm-korichnevyy-mramor/102701592514?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Менажница из искусственного камня Haifisch 30см, классический мрамор",
+			"shortName": "Менажница",
+			"categoryId": 62211292,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5221865/2a000001956ffe8c8eee06d3aa2a2970d3eb/9",
+			"price": 7179,
+			"url": "https://market.yandex.ru/card/menazhnitsa-iz-lityevogo-mramora-haifisch-30sm-klassicheskiy-mramor/102235562941?businessId=6328344&clid=6328344&model_id=1866226160&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец Haifisch из искусственного камня, черно-бордовый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12260097/2a000001961a0a2f154440d6a549ec38610b/9",
+			"price": 1760,
+			"url": "https://market.yandex.ru/card/nastolnyy-derzhatel-dlya-bumazhnykh-polotenets-cherno-bordovyy-mramor/4311804907?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос из искусственного камня Haifisch круглый 18x18 см, серый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5261272/2a0000019213cc0ce9f9136e4592fda45176/9",
+			"price": 1670,
+			"url": "https://market.yandex.ru/card/podnos-iz-iskusstvennogo-kamnya-haifisch-18-sm-seryy/103531242024?businessId=6328344&clid=6328344&model_id=1205148054&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница прямоугольная без слива Haifisch из декоративного мрамора",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/17854139/2a000001995c1bcc4b2461a9dc941732d53e/9",
+			"price": 1500,
+			"url": "https://market.yandex.ru/card/mylnitsa-pryamougolnaya-bez-sliva-haifisch-iz-dekorativnogo-mramora/4669050725?businessId=6328344&clid=6328344&model_id=4669050724&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративная чаша \"Ладья\" Haifisch овальная 30 см, черный мрамор",
+			"shortName": "Декоративная чаша \"Ладья\"",
+			"categoryId": 61668507,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16671337/k_plus_lXJ1pTl1LE6W12BFfY3q/9",
+			"price": 2621,
+			"url": "https://market.yandex.ru/card/dekorativnaya-chasha-ladya-haifisch-ovalnaya-30-sm-chernyy-mramor/103640990432?businessId=6328344&clid=6328344&model_id=4964955405&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из литьевого мрамора 16х11 см, бежевый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12152435/2a0000019213c5979233f7ac0f1aff83c82c/9",
+			"price": 5142,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-16kh11-sm-bezhevyy-mramor/103531236422?businessId=6328344&clid=6328344&model_id=1202712886&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня, белая, для кускового мыла",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15542656/2a000001980eacae8efff0854d0a19b1b4d7/9",
+			"price": 2490,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-klassicheskiy-mramor/102235625853?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец Haifisch, металлический",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/15284069/k_plus_mZHU6x8YhRiORWBwDy0l/9",
+			"price": 1040,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-haifisch-metallicheskiy/102884152324?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
 			"name": "Поднос \"Срез дерева\" из искусственного камня Haifisch, белый мрамор",
 			"shortName": "Декоративный поднос",
 			"categoryId": 12494798,
 			"picture": "https://avatars.mds.yandex.net/get-mpic/14688699/2a000001971b4524f5e429feda7ec85413bc/9",
 			"price": 4570,
 			"url": "https://market.yandex.ru/card/podnos-srez-dereva-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/4403629113?businessId=6328344&clid=6328344&model_id=1418912591&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch для кускового мыла, бежевый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4905155/2a00000191c2197a3fe20352c985a1f15382/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-bezhevyy-mramor/103498102763?businessId=6328344&clid=6328344&model_id=273432497&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня для кускового мыла, бело-коричневый мрамор, 3x12x8.8",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/1673800/2a00000191c21c425777d87f7a712e35cca6/9",
+			"price": 3355,
+			"url": "https://market.yandex.ru/card/mylnitsa-haifisch-iz-iskusstvennogo-kamnya-belo-korichnevyy-mramor/103498099327?businessId=6328344&clid=6328344&model_id=273432499&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня со сливом Haifisch, бежевый мрамор",
+			"shortName": "Мыльница со сливом",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/1081556/2a000001925217c96480c0001cf4f6b4d6ac/9",
+			"price": 3490,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch/103554516710?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подсвечник Haifisch из искусственного камня, бело-коричневый",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5319505/2a0000019213cb199bc3f4723232e1e53f55/9",
+			"price": 734,
+			"url": "https://market.yandex.ru/card/podsvechnik-haifisch-iz-iskusstvennogo-kamnya-belo-korichnevyy/103531242121?businessId=6328344&clid=6328344&model_id=1202578882&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 30 см Бордовый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4472189/2a00000191c21b4cd973c60e196189a63615/9",
+			"price": 3946,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-iskusstvennogo-kamnya-haifisch-30-sm-bordovyy-mramor/103498101959?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Интерьерный поднос/подставка из искусственного камня Haifisch, серый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16166361/k_plus_pLKumeBVnLDRa77UDX0f/9",
+			"price": 3990,
+			"url": "https://market.yandex.ru/card/interyernyy-podnospodstavka-iz-lityevogo-mramora-haifisch-seryy-mramor/102071355828?businessId=6328344&clid=6328344&model_id=1345272637&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Круглый поднос Haifisch из искусственного камня 16 см, бордовый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5103899/2a00000193441211a22673186e783d08fe96/9",
+			"price": 3743,
+			"url": "https://market.yandex.ru/card/dekorativnaya-podstavka-haifisch-iz-lityevogo-mramora-16-sm-bordovyy-mramor/103637902448?businessId=6328344&clid=6328344&model_id=1199425681&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, серый мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11167279/2a0000018bbb2b080ef1c2a48f8fa434228f/9",
+			"price": 2745,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-seryy-mramor/102486085531?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Держатель для бумажных полотенец из искусственного камня Haifisch, черный мрамор",
+			"shortName": "Держатель для бумажных полотенец",
+			"categoryId": 62587135,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5165418/2a0000018bb99b190ada2bc200755b478419/9",
+			"price": 2454,
+			"url": "https://market.yandex.ru/card/derzhatel-dlya-bumazhnykh-polotenets-iz-lityevogo-mramora-haifisch-chernyy-mramor/102028985229?businessId=6328344&clid=6328344&model_id=1866124340&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch, изумрудный мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11906264/2a00000195b701f5b7ff94fe4db42dc59f2f/9",
+			"price": 1355,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-izumrudnyy-mramor/103827821971?businessId=6328344&clid=6328344&model_id=308479563&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подставка из литьевого мрамора для телефона Haifisch, черный мрамор",
+			"shortName": "Подставка для телефона",
+			"categoryId": 70318271,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/1521939/2a0000019264837e07a84361e9b192f02bba/9",
+			"price": 1029,
+			"url": "https://market.yandex.ru/card/podstavka-dlya-telefona-haifisch/103558267202?businessId=6328344&clid=6328344&model_id=718894312&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch овальная, черный мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5306939/2a000001922d8dd65ab458995f1eee82c8d2/9",
+			"price": 1250,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-chernyy-mramor/103538411046?businessId=6328344&clid=6328344&model_id=685268677&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос/подставка Haifisch из искусственного камня, 22х16 см, белый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16444505/k_plus_0YEvsKKsPh6Nedq6ylKO/9",
+			"price": 4825,
+			"url": "https://market.yandex.ru/card/podnospodstavka-haifisch-iz-lityevogo-mramora-22kh16-sm-belyy-mramor/102738805320?businessId=6328344&clid=6328344&model_id=1199362758&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подсвечник из искусственного камня Haifisch, черный мрамор, 2x9x5.5",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5324096/2a0000018ef569e4ed1715d5b70a8cb19cad/9",
+			"price": 1725,
+			"url": "https://market.yandex.ru/card/podsvechnik-iz-lityevogo-mramora-haifisch-chernyy-mramor/102071353237?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос Haifisch из искусственного камня, диаметр 30 см, белый",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5209134/2a0000018e1a05056dc65b1f5974c061a3f2/9",
+			"price": 5776,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-haifisch-iz-lityevogo-mramora-diametr-30-sm-belyy/102743205689?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch \"Листок\", бежевый мрамор",
+			"shortName": "Мыльница \"Листок\"",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11414233/2a000001922d90962e7cf64bd2ff3737d436/9",
+			"price": 4030,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok-bezhevyy-mramor/103538408232?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос круглый с волнистыми краями Haifisch 25см, белый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/13714821/2a00000194730e1e64c881311ec26469e263/9",
+			"price": 5482,
+			"url": "https://market.yandex.ru/card/podnos-kruglyy-s-volnistymi-krayami-haifisch-25sm-belyy-mramor/103729881768?businessId=6328344&clid=6328344&model_id=1203220043&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch овальная, белый мрамор",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5243609/2a000001922d8dd6588aecfd6380bf84ad7f/9",
+			"price": 3222,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-belyy-mramor/103538411047?businessId=6328344&clid=6328344&model_id=685268677&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 25см, белый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/12366926/2a0000018d83e32ea1cda732f10e993ce662/9",
+			"price": 9440,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-25-sm-belyy-mramor/102738824304?businessId=6328344&clid=6328344&model_id=1199341612&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня со сливом Haifisch, бордовый мрамор",
+			"shortName": "Мыльница со сливом",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/11417897/2a00000191c21b5ea0a9c5f4e4ba17bef37d/9",
+			"price": 3530,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-so-slivom-haifisch-bordovyy-mramor/103498094446?businessId=6328344&clid=6328344&model_id=273431751&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница Haifisch из искусственного камня, черная, для кускового мыла",
+			"shortName": "Мыльница",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/7516494/2a0000018f046fc59ab2fbd0aecb0bcb76a4/9",
+			"price": 1355,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-lityevogo-mramora-haifisch-chernyy-mramor/103186591630?businessId=6328344&clid=6328344&model_id=273430564&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Мыльница из искусственного камня Haifisch \"Листок\", серый мрамор",
+			"shortName": "Мыльница \"Листок\"",
+			"categoryId": 63066152,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4936002/2a00000190e5e2077906f5b11647a294b070/9",
+			"price": 4030,
+			"url": "https://market.yandex.ru/card/mylnitsa-iz-iskusstvennogo-kamnya-haifisch-listok/103253340546?businessId=6328344&clid=6328344&model_id=273432498&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Подсвечник из искусственного камня Haifisch, зеленый мрамор, 2x9x5.5",
+			"shortName": "Подсвечник",
+			"categoryId": 12859763,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/16116122/2a00000198896272ab9a0a24d9adba5209c3/9",
+			"price": 975,
+			"url": "https://market.yandex.ru/card/podsvechnik-iz-iskusstvennogo-kamnya-haifisch-zelenyy-mramor-2x9x55/4579192593?businessId=6328344&clid=6328344&model_id=1201612728&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос - чаша \"Капля\" из искусственного камня Haifisch, черный",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/13448948/2a0000019384ff456c5f5712adff50c3e9f5/9",
+			"price": 1775,
+			"url": "https://market.yandex.ru/card/podnos---chasha-kaplya-iz-iskusstvennogo-kamnya-haifisch-chernyy/103662262006?businessId=6328344&clid=6328344&model_id=1204255006&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Поднос круглый с волнистыми краями Haifisch 25см, серый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5236248/2a0000019b221d8782ff75a25a6a085da24a/9",
+			"price": 5582,
+			"url": "https://market.yandex.ru/card/podnos-kruglyy-s-volnistymi-krayami-haifisch-25sm-seryy-mramor/4861526080?businessId=6328344&clid=6328344&model_id=950994376&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 30 см Бело-коричневый мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5233990/2a00000191c21b4cd9e2560014564523a9e9/9",
+			"price": 7946,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-iskusstvennogo-kamnya-haifisch-30-sm-belo-korichnevyy-mramor/103498101960?businessId=6328344&clid=6328344&model_id=1199189343&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Декоративный поднос из искусственного камня Haifisch 18 см, черный мрамор",
+			"shortName": "Декоративный поднос",
+			"categoryId": 12494798,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/5131700/2a0000018e154a9d4ffd1074ba0e079fcb69/9",
+			"price": 3360,
+			"url": "https://market.yandex.ru/card/dekorativnyy-podnos-iz-lityevogo-mramora-haifisch-18-sm-chernyy-mramor/102050255648?businessId=6328344&clid=6328344&model_id=1875231813&distr_type=8&pp=605",
+			"available": "true"
+		},
+		{
+			"name": "Менажница из искусственного камня Haifisch 30см, бежевый мрамор",
+			"shortName": "Менажница",
+			"categoryId": 62211292,
+			"picture": "https://avatars.mds.yandex.net/get-mpic/4888456/2a000001929cd4c538aa3aaaa00cc3daa8ab/9",
+			"price": 6914,
+			"url": "https://market.yandex.ru/card/menazhnitsa-iz-lityevogo-mramora-haifisch-30sm-bezhevyy-mramor/103578747239?businessId=6328344&clid=6328344&model_id=681524287&distr_type=8&pp=605",
 			"available": "true"
 		}
 	]
