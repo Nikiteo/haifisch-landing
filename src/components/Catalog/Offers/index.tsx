@@ -25,7 +25,9 @@ export const Offers = memo(() => {
 			<ul className={styles.catalog}>
 				{visibleOffers.map(item => (
 					<li key={item.url} className={styles.offer}>
-						<img loading="lazy" src={item.picture} alt={item.name} className={styles.offerImage} />
+						<div className={styles.imageContainer}>
+							<img loading="lazy" src={item.picture} alt={item.name} className={styles.offerImage} />
+						</div>
 						<h5 className={styles.offerName}>{item.shortName}</h5>
 						<Button
 							as="a"

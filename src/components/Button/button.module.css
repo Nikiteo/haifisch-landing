@@ -7,7 +7,8 @@
 	border: none;
 	border-radius: var(--radius);
 	cursor: pointer;
-	transition: all 0.2s ease-in-out;
+	letter-spacing: 0.04em;
+	transition: all 0.25s ease-in-out;
 	white-space: nowrap;
 	text-decoration: none;
 }

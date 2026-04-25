@@ -12,6 +12,7 @@
 	font-size: var(--heading-size-xs);
 	line-height: 1.4;
 	text-transform: uppercase;
+	letter-spacing: var(--letter-spacing-wide);
 	transition: font-size 0.3s ease;
 
 	@media (width >=480px) {
@@ -35,6 +36,7 @@
 	font-size: var(--heading-size-xs);
 	line-height: 1.4;
 	text-transform: uppercase;
+	letter-spacing: var(--letter-spacing-wide);
 	transition: font-size 0.3s ease;
 	word-break: keep-all;
 	white-space: wrap;

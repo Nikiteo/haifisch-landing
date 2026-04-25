@@ -10,9 +10,16 @@
 	--color-text-secondary: #6c6c6c;
 	--color-accent-hover: #3c3c3c;
 
+	/* Акцентный цвет */
+	--color-accent: #c49a6c;
+	--color-accent-subtle: rgba(196, 154, 108, 0.10);
+
 	/* Шрифты */
 	--font-heading: 'Playfair Display', serif;
 	--font-body: 'Inter', sans-serif;
+
+	/* Межбуквенный интервал */
+	--letter-spacing-wide: 0.07em;
 
 	/* Размеры шрифтов */
 	--heading-size-xs: 1.125rem;

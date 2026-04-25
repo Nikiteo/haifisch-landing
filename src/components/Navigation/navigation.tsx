@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion'
+import { type Variants, motion } from 'framer-motion'
 import { t } from 'i18next'
 import { memo } from 'react'
 
@@ -13,7 +13,7 @@ interface NavMenuProps {
 	onItemClick?: () => void
 }
 
-const variants = {
+const variants: Variants = {
 	hidden: {},
 	show: {
 		transition: {
@@ -23,7 +23,7 @@ const variants = {
 	},
 }
 
-const itemVariants = {
+const itemVariants: Variants = {
 	hidden: { opacity: 0, y: 20 },
 	show: { opacity: 1, y: 0, transition: { duration: 0.35, ease: 'easeOut' } },
 }

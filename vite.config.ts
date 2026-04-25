@@ -26,23 +26,23 @@ export default defineConfig(({ mode }) => {
 			chunkSizeWarningLimit: 1000,
 			rollupOptions: {
 				output: {
-					manualChunks: {
-						react: ['react', 'react-dom'],
-						i18n: ['i18next', 'react-i18next'],
-						animations: ['framer-motion'],
+					manualChunks: (id: string) => {
+						if (id.includes('node_modules/react') || id.includes('node_modules/react-dom'))
+							return 'react'
+						if (id.includes('node_modules/i18next') || id.includes('node_modules/react-i18next'))
+							return 'i18n'
+						if (id.includes('node_modules/framer-motion'))
+							return 'animations'
 					},
 					entryFileNames: `[name].[hash].js`,
 					chunkFileNames: `[name].[hash].js`,
 					assetFileNames: `[name].[hash].[ext]`,
 				},
 			},
-			minify: 'terser',
-			terserOptions: {
-				compress: {
-					drop_console: mode === 'production',
-					drop_debugger: true,
-				},
-			},
+			minify: 'esbuild',
+		},
+		esbuild: {
+			drop: mode === 'production' ? ['console', 'debugger'] : [],
 		},
 		optimizeDeps: {
 			exclude: ['@yandex/ymaps3-default-ui-theme'],
